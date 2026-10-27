@@ -5,7 +5,7 @@
 **EN** A flat cross of six coloured paper squares folds up panel by panel into a cube, spins once, then unfolds flat again.  
 **KO** 색종이 여섯 장으로 된 십자 전개도가 한 장씩 접혀 정육면체가 되고, 한 바퀴 돈 뒤 다시 평평하게 펼쳐진다.
 
-[Video (mp4)](../videos/093-origami-fold.mp4) · [Code](../effects/093-origami-fold.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/093-origami-fold.mp4) · [Code](../effects/093-origami-fold.js) · 3D · 3D
 
 ## Prompt (English)
 

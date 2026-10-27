@@ -5,7 +5,7 @@
 **EN** A coral polka-dot flag on a silver pole ripples in the wind against a blue sky, its waves rolling out toward the free edge.  
 **KO** 파란 하늘 아래 은색 깃대에 달린 산호색 물방울무늬 깃발이 바람에 물결치고, 물결이 끝자락 쪽으로 굴러간다.
 
-[Video (mp4)](../videos/092-cloth-wave.mp4) · [Code](../effects/092-cloth-wave.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/092-cloth-wave.mp4) · [Code](../effects/092-cloth-wave.js) · 3D · 3D
 
 ## Prompt (English)
 

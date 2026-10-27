@@ -5,7 +5,7 @@
 **EN** A thin ribbon of smoke rises from a glowing incense tip, curling and widening into soft wisps lit from the upper left.  
 **KO** 빛나는 향 끝에서 가는 연기 줄기가 피어올라, 말리고 넓어지며 왼쪽 위에서 빛을 받은 부드러운 연기로 흩어진다.
 
-[Video (mp4)](../videos/059-smoke.mp4) · [Code](../effects/059-smoke.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/059-smoke.mp4) · [Code](../effects/059-smoke.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

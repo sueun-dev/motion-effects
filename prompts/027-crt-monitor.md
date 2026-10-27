@@ -5,7 +5,7 @@
 **EN** A retro TV plays a sunset show through a bulging tube with fixed scanlines, RGB phosphor stripes, soft glow and a slow rolling band.  
 **KO** 레트로 TV가 볼록한 브라운관으로 노을 방송을 틀고, 고정된 주사선·RGB 형광 줄무늬·은은한 번짐 위로 밝은 띠가 천천히 굴러간다.
 
-[Video (mp4)](../videos/027-crt-monitor.mp4) · [Code](../effects/027-crt-monitor.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/027-crt-monitor.mp4) · [Code](../effects/027-crt-monitor.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

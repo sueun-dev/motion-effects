@@ -5,7 +5,7 @@
 **EN** Warm light leaks sweep diagonally and flare to a near-white burn while a sunset lake crossfades to a night city, then back again.  
 **KO** 따뜻한 빛 번짐이 대각선으로 쓸고 지나가며 거의 흰빛으로 타오르는 사이 노을 호수가 밤 도시로 바뀌고, 다시 노을로 돌아온다.
 
-[Video (mp4)](../videos/136-light-leak.mp4) · [Code](../effects/136-light-leak.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/136-light-leak.mp4) · [Code](../effects/136-light-leak.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

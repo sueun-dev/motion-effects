@@ -5,7 +5,7 @@
 **EN** A glossy 3D credit card turns over in perspective to show its back with the card details, lifting toward the camera, then flips back.  
 **KO** 광택 있는 3D 신용카드가 카메라 쪽으로 들리며 원근감 있게 뒤집혀 카드 정보가 있는 뒷면을 보였다가 다시 돌아온다.
 
-[Video (mp4)](../videos/121-card-flip.mp4) · [Code](../effects/121-card-flip.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/121-card-flip.mp4) · [Code](../effects/121-card-flip.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

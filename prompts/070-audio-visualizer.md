@@ -5,7 +5,7 @@
 **EN** A made-up 120 BPM beat pumps a neon radial spectrum around a "120 BPM" disc and a bar spectrum with a reflection below.  
 **KO** 가상의 120 BPM 비트에 맞춰 "120 BPM" 원판 둘레의 네온 원형 스펙트럼과 아래의 반사된 막대 스펙트럼이 튄다.
 
-[Video (mp4)](../videos/070-audio-visualizer.mp4) · [Code](../effects/070-audio-visualizer.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/070-audio-visualizer.mp4) · [Code](../effects/070-audio-visualizer.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

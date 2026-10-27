@@ -7,7 +7,7 @@
 **EN** Three puffy clay toys with smiley faces bounce with squash and stretch on a soft lilac platform under a clay sun and cloud.  
 **KO** 웃는 얼굴의 말랑한 점토 장난감 셋이 연보라 받침 위에서 찌그러졌다 늘어나며 통통 튀고, 위에는 점토 해와 구름이 떠 있다.
 
-[Video (mp4)](../videos/003-claymorphism.mp4) · [Code](../effects/003-claymorphism.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/003-claymorphism.mp4) · [Code](../effects/003-claymorphism.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

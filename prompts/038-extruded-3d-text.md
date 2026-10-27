@@ -5,7 +5,7 @@
 **EN** Glossy extruded "3D TYPE" letters with coloured sides swing side to side and nod, casting a soft shadow under a purple-pink sky.  
 **KO** 옆면 색이 다른 광택 입체 글자 "3D TYPE"이 좌우로 흔들리며 고개를 끄덕이고, 보라·분홍 하늘 아래 부드러운 그림자를 드리운다.
 
-[Video (mp4)](../videos/038-extruded-3d-text.mp4) · [Code](../effects/038-extruded-3d-text.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/038-extruded-3d-text.mp4) · [Code](../effects/038-extruded-3d-text.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

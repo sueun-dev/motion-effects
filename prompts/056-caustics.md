@@ -5,7 +5,7 @@
 **EN** A net of bright, softly rainbow-fringed light lines wavers over a tiled blue pool floor.  
 **KO** 파란 타일 수영장 바닥 위로 가장자리에 옅은 무지개가 번진 밝은 빛 그물 무늬가 일렁인다.
 
-[Video (mp4)](../videos/056-caustics.mp4) · [Code](../effects/056-caustics.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/056-caustics.mp4) · [Code](../effects/056-caustics.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

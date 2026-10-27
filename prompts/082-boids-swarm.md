@@ -5,7 +5,7 @@
 **EN** A flock of 650 dark birds sweeps across a sunset sky in a figure-eight, stretching, bunching and banking together.  
 **KO** 새 650마리 떼가 노을 하늘을 8자로 휘저으며 늘어났다 뭉쳤다 하고 함께 방향을 튼다.
 
-[Video (mp4)](../videos/082-boids-swarm.mp4) · [Code](../effects/082-boids-swarm.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/082-boids-swarm.mp4) · [Code](../effects/082-boids-swarm.js) · Particles · 파티클
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** A glowing clock hand sweeps once around from 12 o'clock, turning a sunset lake into a night city, then sweeps again to turn it back.  
 **KO** 빛나는 시곗바늘이 12시부터 한 바퀴 돌며 노을 호수를 밤 도시로 바꾸고, 다시 한 바퀴 돌아 노을로 되돌린다.
 
-[Video (mp4)](../videos/129-clock-wipe.mp4) · [Code](../effects/129-clock-wipe.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/129-clock-wipe.mp4) · [Code](../effects/129-clock-wipe.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

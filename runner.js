@@ -1,4 +1,4 @@
-// Runs in the page (index.html?fx=010-grainy-gradient): draws the effect frame by frame, adds the label,
+// Runs in the page (render.html?fx=010-grainy-gradient): draws the effect frame by frame, adds the label,
 // and posts every frame as a PNG to render.mjs, which pipes it to ffmpeg. Frame i is drawn at t = i / 30.
 import * as THREE from 'three';
 import { W, H, FPS, FRAMES, FONT } from './lib/util.js';

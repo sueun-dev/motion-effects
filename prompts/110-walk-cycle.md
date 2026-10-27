@@ -5,7 +5,7 @@
 **EN** A cartoon walker strides in place with IK-bent knees and swinging arms while the ground and hills slide past under its feet.  
 **KO** 만화 캐릭터가 IK로 굽는 무릎과 반대로 흔드는 팔로 제자리걸음을 하고, 발밑의 땅과 언덕이 뒤로 흘러간다.
 
-[Video (mp4)](../videos/110-walk-cycle.mp4) · [Code](../effects/110-walk-cycle.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/110-walk-cycle.mp4) · [Code](../effects/110-walk-cycle.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

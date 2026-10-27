@@ -5,7 +5,7 @@
 **EN** A round white bunny slides across and stops; its long ears keep swinging on a damped spring, the tips lagging most, before they settle.  
 **KO** 둥근 흰 토끼가 옆으로 미끄러지다 멈춰도 긴 귀는 감쇠 스프링처럼 계속 흔들리고, 끝이 가장 늦게 따라오다 가라앉는다.
 
-[Video (mp4)](../videos/104-follow-through.mp4) · [Code](../effects/104-follow-through.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/104-follow-through.mp4) · [Code](../effects/104-follow-through.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

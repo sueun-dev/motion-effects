@@ -5,7 +5,7 @@
 **EN** A cloud of 5,000 glowing magenta and cyan points slowly turns while morphing from a sphere into a cube, a torus and back.  
 **KO** 자홍·청록으로 빛나는 점 5,000개의 구름이 천천히 돌며 구 → 정육면체 → 토러스 → 다시 구로 모양을 바꾼다.
 
-[Video (mp4)](../videos/077-particle-morph.mp4) · [Code](../effects/077-particle-morph.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/077-particle-morph.mp4) · [Code](../effects/077-particle-morph.js) · Particles · 파티클
 
 ## Prompt (English)
 

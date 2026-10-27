@@ -7,7 +7,7 @@
 **EN** Four soft colour fields drift and melt into each other under a film grain that never moves.  
 **KO** 움직이지 않는 필름 그레인 아래로 네 가지 색이 천천히 흐르며 섞인다.
 
-[Video (mp4)](../videos/010-grainy-gradient.mp4) · [Code](../effects/010-grainy-gradient.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/010-grainy-gradient.mp4) · [Code](../effects/010-grainy-gradient.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

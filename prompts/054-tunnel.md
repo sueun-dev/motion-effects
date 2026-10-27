@@ -5,7 +5,7 @@
 **EN** An endless flight down a tiled tunnel lined with cyan and magenta neon, slowly spinning toward a white glow.  
 **KO** 청록·자홍 네온 선이 그어진 타일 터널 속으로 끝없이 날아가고, 터널은 천천히 돌며 끝이 하얗게 빛난다.
 
-[Video (mp4)](../videos/054-tunnel.mp4) · [Code](../effects/054-tunnel.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/054-tunnel.mp4) · [Code](../effects/054-tunnel.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

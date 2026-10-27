@@ -5,7 +5,7 @@
 **EN** A pastel relief map whose contour lines flow and reshape as the lakes, hills and peaks underneath slowly morph.  
 **KO** 파스텔 지형도의 등고선이 아래의 호수·언덕·봉우리가 천천히 모양을 바꾸면서 흐르듯 움직인다.
 
-[Video (mp4)](../videos/062-topographic-contours.mp4) · [Code](../effects/062-topographic-contours.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/062-topographic-contours.mp4) · [Code](../effects/062-topographic-contours.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

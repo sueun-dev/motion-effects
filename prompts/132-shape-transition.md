@@ -5,7 +5,7 @@
 **EN** Yellow, coral and violet bands with zigzag and scalloped edges rise up the screen, wiping a sunset lake to a night city and back.  
 **KO** 지그재그와 반원 물결 경계를 가진 노랑·산호·보라 색 띠가 아래에서 위로 올라가며 노을 호수를 밤 도시로, 다시 노을로 바꾼다.
 
-[Video (mp4)](../videos/132-shape-transition.mp4) · [Code](../effects/132-shape-transition.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/132-shape-transition.mp4) · [Code](../effects/132-shape-transition.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

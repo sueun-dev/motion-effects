@@ -5,7 +5,7 @@
 **EN** Six rockets climb over a night skyline and burst into coloured spheres of sparks that slow, droop and fade with glowing trails.  
 **KO** 밤 도시 실루엣 위로 로켓 여섯 발이 차례로 솟아 색색의 불꽃으로 터지고, 불티는 느려지며 꼬리를 남기고 떨어져 사라진다.
 
-[Video (mp4)](../videos/073-fireworks.mp4) · [Code](../effects/073-fireworks.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/073-fireworks.mp4) · [Code](../effects/073-fireworks.js) · Particles · 파티클
 
 ## Prompt (English)
 

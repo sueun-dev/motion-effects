@@ -7,7 +7,7 @@
 **EN** Three shaded balls circle and hop on a cream floor, printed only as a fixed 45° dot screen whose dots swell and shrink.  
 **KO** 음영 진 공 세 개가 크림색 바닥 위를 돌며 튀어 오르고, 45도로 고정된 망점으로만 찍혀 점 크기가 명암을 따라 커졌다 작아진다.
 
-[Video (mp4)](../videos/021-halftone.mp4) · [Code](../effects/021-halftone.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/021-halftone.mp4) · [Code](../effects/021-halftone.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

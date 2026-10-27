@@ -5,7 +5,7 @@
 **EN** A chain of nine spinning circles, tip to tail, draws a glowing pink heart whose trail fades behind the pen.  
 **KO** 꼬리를 문 회전 원 아홉 개가 분홍빛 하트를 그리고, 그 선은 펜 뒤로 갈수록 희미해진다.
 
-[Video (mp4)](../videos/067-fourier-epicycles.mp4) · [Code](../effects/067-fourier-epicycles.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/067-fourier-epicycles.mp4) · [Code](../effects/067-fourier-epicycles.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

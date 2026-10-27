@@ -5,7 +5,7 @@
 **EN** A banded, lit planet spins under fixed stars, drawn in only two colours with an 8 × 8 Bayer dither on chunky 8 px pixels.  
 **KO** 띠무늬 행성이 고정된 별 아래에서 돌고, 8 × 8 베이어 디더로 8px 큰 픽셀 두 가지 색만으로 그려진다.
 
-[Video (mp4)](../videos/024-dithering.mp4) · [Code](../effects/024-dithering.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/024-dithering.mp4) · [Code](../effects/024-dithering.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

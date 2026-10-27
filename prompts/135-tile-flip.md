@@ -5,7 +5,7 @@
 **EN** A 6 × 10 grid of tiles flips in a slanted wave down the screen, lifting toward the camera, turning a sunset into a night city and back.  
 **KO** 6 × 10 격자 타일이 비스듬한 물결을 따라 위에서 아래로 뒤집히며 카메라 쪽으로 들리고, 노을을 밤 도시로, 다시 노을로 바꾼다.
 
-[Video (mp4)](../videos/135-tile-flip.mp4) · [Code](../effects/135-tile-flip.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/135-tile-flip.mp4) · [Code](../effects/135-tile-flip.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

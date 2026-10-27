@@ -5,7 +5,7 @@
 **EN** Two striped party poppers in the bottom corners fire bursts of colourful paper that fly up, then spin, flip and flutter down.  
 **KO** 아래 양쪽 모서리의 줄무늬 파티 폭죽 두 개가 색종이를 쏘아 올리고, 색종이는 돌고 뒤집히며 팔랑팔랑 떨어진다.
 
-[Video (mp4)](../videos/074-confetti.mp4) · [Code](../effects/074-confetti.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/074-confetti.mp4) · [Code](../effects/074-confetti.js) · Particles · 파티클
 
 ## Prompt (English)
 

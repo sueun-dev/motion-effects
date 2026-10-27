@@ -7,7 +7,7 @@
 **EN** Strokes draw on one by one, a round mountain badge with sun, lake and birds, then a handwritten "hello", before trailing tails erase it all.  
 **KO** 선이 하나씩 그려지며 해·호수·새가 있는 원형 산 그림과 손글씨 "hello"가 나타나고, 뒤따르는 꼬리가 전부 지운 뒤 다시 시작한다.
 
-[Video (mp4)](../videos/101-line-animation.mp4) · [Code](../effects/101-line-animation.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/101-line-animation.mp4) · [Code](../effects/101-line-animation.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

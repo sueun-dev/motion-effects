@@ -5,7 +5,7 @@
 **EN** A dolphin leaps out of a sunset sea on a tall arc and swims back under water on a shallow one, dots marking equal time steps.  
 **KO** 돌고래가 노을 진 바다에서 높은 호를 그리며 뛰어올랐다가 물속에서 얕은 호로 돌아오고, 점들이 같은 시간 간격을 표시한다.
 
-[Video (mp4)](../videos/105-arc-motion.mp4) · [Code](../effects/105-arc-motion.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/105-arc-motion.mp4) · [Code](../effects/105-arc-motion.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

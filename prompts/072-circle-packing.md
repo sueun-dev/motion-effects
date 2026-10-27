@@ -5,7 +5,7 @@
 **EN** Colourful circles drop in and grow until they touch, packing the frame, then shrink away from the middle out as the next round grows.  
 **KO** 알록달록한 원들이 떨어져 서로 닿을 때까지 자라 화면을 빈틈없이 채우고, 가운데부터 줄어들며 다음 판이 다시 자란다.
 
-[Video (mp4)](../videos/072-circle-packing.mp4) · [Code](../effects/072-circle-packing.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/072-circle-packing.mp4) · [Code](../effects/072-circle-packing.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

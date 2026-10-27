@@ -5,7 +5,7 @@
 **EN** A campfire on two crossed logs: noise flames lick upward in a tapering column while glowing sparks drift up and fade.  
 **KO** 엇갈린 통나무 두 개 위의 모닥불. 노이즈 불길이 가늘어지며 위로 넘실대고 불티가 떠올라 사라진다.
 
-[Video (mp4)](../videos/058-fire.mp4) · [Code](../effects/058-fire.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/058-fire.mp4) · [Code](../effects/058-fire.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

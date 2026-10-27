@@ -7,7 +7,7 @@
 **EN** Mirror-chrome 3D letters "Y2K" and "CHROME" sway as sky and horizon reflections stream across them, with chrome sparkles orbiting.  
 **KO** 거울 같은 크롬 3D 글자 "Y2K"·"CHROME"이 흔들리며 하늘·지평선 반사가 표면을 흐르고, 크롬 반짝이 별들이 주위를 돈다.
 
-[Video (mp4)](../videos/004-y2k-chrome.mp4) · [Code](../effects/004-y2k-chrome.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/004-y2k-chrome.mp4) · [Code](../effects/004-y2k-chrome.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

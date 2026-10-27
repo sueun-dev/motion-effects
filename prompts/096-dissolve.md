@@ -5,7 +5,7 @@
 **EN** A turning pale-blue teapot burns away from the top along a glowing noisy edge, shedding embers, then rebuilds itself from the bottom up.  
 **KO** 돌고 있는 하늘색 찻주전자가 빛나는 노이즈 가장자리를 따라 위에서부터 타 사라지며 불씨를 날리고, 다시 아래부터 되살아난다.
 
-[Video (mp4)](../videos/096-dissolve.mp4) · [Code](../effects/096-dissolve.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/096-dissolve.mp4) · [Code](../effects/096-dissolve.js) · 3D · 3D
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** Fluorescent pink, blue and yellow plates overprint a sun, circles, stripes and "RISO" slightly off register, the offsets drifting slowly.  
 **KO** 형광 분홍·파랑·노랑 잉크 판 세 장이 해, 원, 줄무늬, "RISO" 글자를 살짝 어긋나게 겹쳐 찍고, 그 어긋남이 천천히 움직인다.
 
-[Video (mp4)](../videos/023-risograph.mp4) · [Code](../effects/023-risograph.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/023-risograph.mp4) · [Code](../effects/023-risograph.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** Six tilted ribbons of bold type, two pairs crossing in an X, scroll endlessly in alternating directions over a dark background.  
 **KO** 기울어진 굵은 글자 띠 여섯 개(두 쌍은 X자로 교차)가 어두운 배경 위에서 번갈아 반대 방향으로 끝없이 흘러간다.
 
-[Video (mp4)](../videos/040-marquee.mp4) · [Code](../effects/040-marquee.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/040-marquee.mp4) · [Code](../effects/040-marquee.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

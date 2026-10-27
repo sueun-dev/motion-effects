@@ -5,7 +5,7 @@
 **EN** 28 rainbow dominoes on an S-curve topple in a chain, each coming to rest on the next, then the whole run stands back up in reverse.  
 **KO** S자 곡선 위 무지개색 도미노 28개가 연쇄로 넘어져 서로 기대어 멈추고, 이어서 거꾸로 감기듯 전부 다시 일어선다.
 
-[Video (mp4)](../videos/097-domino-chain.mp4) · [Code](../effects/097-domino-chain.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/097-domino-chain.mp4) · [Code](../effects/097-domino-chain.js) · 3D · 3D
 
 ## Prompt (English)
 

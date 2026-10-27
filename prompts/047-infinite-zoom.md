@@ -7,7 +7,7 @@
 **EN** The view zooms and turns endlessly into a framed painting on a gallery wall that holds the same wall and painting again.  
 **KO** 갤러리 벽의 액자 속에 같은 벽과 액자가 또 들어 있고, 화면이 천천히 돌며 그 속으로 끝없이 확대해 들어간다.
 
-[Video (mp4)](../videos/047-infinite-zoom.mp4) · [Code](../effects/047-infinite-zoom.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/047-infinite-zoom.mp4) · [Code](../effects/047-infinite-zoom.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

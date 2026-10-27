@@ -5,7 +5,7 @@
 **EN** A small coral blob grows into a frame-filling maze of fingerprint stripes and spots, then shrinks back to its seed shape.  
 **KO** 작은 산호 덩어리가 지문 같은 줄무늬·점 미로로 자라 화면을 채운 뒤, 처음의 씨앗 모양으로 다시 줄어든다.
 
-[Video (mp4)](../videos/060-reaction-diffusion.mp4) · [Code](../effects/060-reaction-diffusion.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/060-reaction-diffusion.mp4) · [Code](../effects/060-reaction-diffusion.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

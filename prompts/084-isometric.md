@@ -7,7 +7,7 @@
 **EN** A 7 × 7 grid of coloured blocks in true isometric view rises and falls in a ripple spreading out from the centre.  
 **KO** 등각 투영으로 본 7 × 7 색 블록 격자가 가운데에서 퍼져 나가는 파문처럼 솟았다 꺼진다.
 
-[Video (mp4)](../videos/084-isometric.mp4) · [Code](../effects/084-isometric.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/084-isometric.mp4) · [Code](../effects/084-isometric.js) · 3D · 3D
 
 ## Prompt (English)
 

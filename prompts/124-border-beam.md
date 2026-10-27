@@ -5,7 +5,7 @@
 **EN** Two glowing beams, orange-pink and cyan-violet, chase each other round the rounded border of a dark pricing card, lighting it as they pass.  
 **KO** 주황·분홍 빛과 하늘·보라 빛 두 줄기가 어두운 요금제 카드의 둥근 테두리를 따라 돌며 지나가는 자리를 밝힌다.
 
-[Video (mp4)](../videos/124-border-beam.mp4) · [Code](../effects/124-border-beam.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/124-border-beam.mp4) · [Code](../effects/124-border-beam.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

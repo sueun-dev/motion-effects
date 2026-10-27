@@ -5,7 +5,7 @@
 **EN** Six balls cross the same track in the same time with linear, ease-in, ease-out, ease-in-out, back and bounce easing, then go back.  
 **KO** 공 여섯 개가 같은 거리를 같은 시간에 linear·ease-in·ease-out·ease-in-out·back·bounce 이징으로 갔다가 다시 돌아온다.
 
-[Video (mp4)](../videos/102-easing-curves.mp4) · [Code](../effects/102-easing-curves.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/102-easing-curves.mp4) · [Code](../effects/102-easing-curves.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

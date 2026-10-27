@@ -5,7 +5,7 @@
 **EN** Four lines are typed letter by letter onto lined paper with slight human jitter while a red cursor follows, then breathes and the page clears.  
 **KO** 줄 친 종이에 네 줄이 사람처럼 살짝 불규칙하게 한 자씩 찍히고, 빨간 커서가 따라가다 숨 쉬듯 흐려졌다 밝아진 뒤 종이가 비워진다.
 
-[Video (mp4)](../videos/033-typewriter.mp4) · [Code](../effects/033-typewriter.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/033-typewriter.mp4) · [Code](../effects/033-typewriter.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

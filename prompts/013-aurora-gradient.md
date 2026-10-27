@@ -5,7 +5,7 @@
 **EN** Three green-to-violet aurora curtains ripple across a starry night sky above a dark mountain ridge, mirrored in a still lake.  
 **KO** 별이 뜬 밤하늘에 초록에서 보라로 물드는 오로라 커튼 세 겹이 일렁이고, 검은 산 능선 아래 잔잔한 호수에 비친다.
 
-[Video (mp4)](../videos/013-aurora-gradient.mp4) · [Code](../effects/013-aurora-gradient.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/013-aurora-gradient.mp4) · [Code](../effects/013-aurora-gradient.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** Words stream along two rolling wavy ribbons while a badge of two counter-rotating circular texts turns around a spinning star.  
 **KO** 물결치는 리본 두 개 위로 글자가 흘러가고, 가운데 배지에서는 원형 텍스트 두 줄이 서로 반대로 돌고 별이 회전한다.
 
-[Video (mp4)](../videos/037-text-on-path.mp4) · [Code](../effects/037-text-on-path.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/037-text-on-path.mp4) · [Code](../effects/037-text-on-path.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

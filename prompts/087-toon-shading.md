@@ -5,7 +5,7 @@
 **EN** A red cartoon teapot with hard light bands and ink outlines spins and bobs, three toy shapes orbiting above it, on a comic sunburst.  
 **KO** 딱 끊어지는 명암과 잉크 외곽선의 빨간 만화풍 주전자가 돌며 둥실거리고, 그 위로 장난감 도형 셋이 만화 햇살 배경 앞에서 돈다.
 
-[Video (mp4)](../videos/087-toon-shading.mp4) · [Code](../effects/087-toon-shading.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/087-toon-shading.mp4) · [Code](../effects/087-toon-shading.js) · 3D · 3D
 
 ## Prompt (English)
 

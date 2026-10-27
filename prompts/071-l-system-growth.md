@@ -5,7 +5,7 @@
 **EN** A fractal plant grows from its trunk out to its twigs, pops pink blossoms at the branch tips, sways in the wind, then fades away.  
 **KO** 프랙털 식물이 줄기에서 잔가지 끝까지 자라나 가지 끝마다 분홍 꽃을 피우고, 바람에 흔들리다가 사라진다.
 
-[Video (mp4)](../videos/071-l-system-growth.mp4) · [Code](../effects/071-l-system-growth.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/071-l-system-growth.mp4) · [Code](../effects/071-l-system-growth.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

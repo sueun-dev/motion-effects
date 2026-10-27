@@ -5,7 +5,7 @@
 **EN** Five loaders on dark cards: an arc spinner, bouncing dots, a progress ring that fills to a tick, an activity wheel and an upload bar.  
 **KO** 어두운 카드 위 로딩 다섯 가지: 호 스피너, 튀는 점 세 개, 체크로 끝나는 진행 링, 액티비티 휠, 업로드 막대.
 
-[Video (mp4)](../videos/113-loading-indicators.mp4) · [Code](../effects/113-loading-indicators.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/113-loading-indicators.mp4) · [Code](../effects/113-loading-indicators.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

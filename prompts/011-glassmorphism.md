@@ -5,7 +5,7 @@
 **EN** Bright colour blobs drift behind three frosted-glass UI panels (notification, payment card, button) and turn soft and milky beneath them.  
 **KO** 알림·결제 카드·버튼 세 개의 젖빛 유리 패널 뒤로 밝은 색 블롭이 지나가며, 유리 아래에서는 뿌옇게 흐려 보인다.
 
-[Video (mp4)](../videos/011-glassmorphism.mp4) · [Code](../effects/011-glassmorphism.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/011-glassmorphism.mp4) · [Code](../effects/011-glassmorphism.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

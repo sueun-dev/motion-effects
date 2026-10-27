@@ -5,7 +5,7 @@
 **EN** Layers of noise bend each other's coordinates into slowly churning marble swirls of ink blue, teal, amber and cream.  
 **KO** 노이즈가 겹겹이 서로의 좌표를 비틀어, 남색·청록·주황·크림빛 대리석 무늬가 천천히 소용돌이친다.
 
-[Video (mp4)](../videos/048-domain-warping.mp4) · [Code](../effects/048-domain-warping.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/048-domain-warping.mp4) · [Code](../effects/048-domain-warping.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

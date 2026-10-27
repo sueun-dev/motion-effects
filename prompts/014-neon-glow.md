@@ -5,7 +5,7 @@
 **EN** A neon sign on a dark brick wall lights up tube by tube (frame, NEON, heart, wavy line), glows steadily, then fades out smoothly.  
 **KO** 어두운 벽돌 벽의 네온사인이 관 하나씩 그려지며 켜지고(테두리, NEON, 하트, 물결선), 깜빡임 없이 빛나다가 부드럽게 꺼진다.
 
-[Video (mp4)](../videos/014-neon-glow.mp4) · [Code](../effects/014-neon-glow.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/014-neon-glow.mp4) · [Code](../effects/014-neon-glow.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

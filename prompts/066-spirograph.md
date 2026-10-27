@@ -5,7 +5,7 @@
 **EN** A toothed wheel rolls inside a ring while three pens trace nested eight-pointed star curves in pink, cyan and orange.  
 **KO** 톱니바퀴가 링 안을 구르며, 펜 세 개가 분홍·청록·주황의 여덟 꼭짓점 별 곡선을 겹겹이 그린다.
 
-[Video (mp4)](../videos/066-spirograph.mp4) · [Code](../effects/066-spirograph.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/066-spirograph.mp4) · [Code](../effects/066-spirograph.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

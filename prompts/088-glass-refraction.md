@@ -5,7 +5,7 @@
 **EN** A glass torus knot, rounded cube and ball turn over bold stripes and a GLASS banner, bending them with rainbow-fringed refraction.  
 **KO** 유리로 된 토러스 매듭, 둥근 큐브, 구슬이 굵은 줄무늬와 GLASS 띠 앞에서 돌며 뒤 배경을 무지갯빛 테두리와 함께 휘어 보이게 한다.
 
-[Video (mp4)](../videos/088-glass-refraction.mp4) · [Code](../effects/088-glass-refraction.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/088-glass-refraction.mp4) · [Code](../effects/088-glass-refraction.js) · 3D · 3D
 
 ## Prompt (English)
 

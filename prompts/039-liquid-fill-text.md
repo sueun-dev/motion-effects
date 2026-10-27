@@ -5,7 +5,7 @@
 **EN** Blue liquid with sloshing waves and rising bubbles fills the outlined words FILL UP to the brim and drains again, with a % meter.  
 **KO** 외곽선만 있는 FILL UP 글자 안에 물결과 기포가 있는 파란 액체가 가득 차올랐다 다시 빠지고, 아래 퍼센트 게이지가 따라 움직인다.
 
-[Video (mp4)](../videos/039-liquid-fill-text.mp4) · [Code](../effects/039-liquid-fill-text.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/039-liquid-fill-text.mp4) · [Code](../effects/039-liquid-fill-text.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

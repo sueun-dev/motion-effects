@@ -5,7 +5,7 @@
 **EN** Comic burst balloons "POW!" and "BAM!" take turns springing out over Ben-Day dots and slowly turning sunburst rays.  
 **KO** 벤데이 도트와 천천히 도는 햇살 집중선 위로 "POW!"와 "BAM!" 폭발 말풍선이 번갈아 튀어나온다.
 
-[Video (mp4)](../videos/018-pop-art-comic.mp4) · [Code](../effects/018-pop-art-comic.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/018-pop-art-comic.mp4) · [Code](../effects/018-pop-art-comic.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

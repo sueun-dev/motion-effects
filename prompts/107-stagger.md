@@ -5,7 +5,7 @@
 **EN** A 4 × 6 grid of coloured icon tiles shrinks away in a diagonal wave, leaving empty slots, then pops back in the same order.  
 **KO** 색색의 아이콘 타일 4 × 6 격자가 대각선 물결처럼 차례로 작아지며 사라져 빈칸만 남았다가, 같은 순서로 통통 튀어나오며 돌아온다.
 
-[Video (mp4)](../videos/107-stagger.mp4) · [Code](../effects/107-stagger.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/107-stagger.mp4) · [Code](../effects/107-stagger.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

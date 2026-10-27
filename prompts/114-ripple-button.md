@@ -5,7 +5,7 @@
 **EN** A finger taps two pill buttons on a tour card; from each touch point a ripple circle spreads to fill the button, then fades.  
 **KO** 투어 카드의 알약 버튼 두 개를 손가락이 누르면, 닿은 지점에서 물결 원이 퍼져 버튼을 채운 뒤 사라진다.
 
-[Video (mp4)](../videos/114-ripple-button.mp4) · [Code](../effects/114-ripple-button.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/114-ripple-button.mp4) · [Code](../effects/114-ripple-button.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

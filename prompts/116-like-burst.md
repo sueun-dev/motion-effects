@@ -5,7 +5,7 @@
 **EN** A tapped outline heart pops back filled red inside a bursting ring and a spray of coloured dots; the like counter rolls up, then down.  
 **KO** 탭한 빈 하트가 터지는 고리와 색 점들 속에서 빨갛게 채워져 튀어나오고, 좋아요 수가 올라갔다 내려간다.
 
-[Video (mp4)](../videos/116-like-burst.mp4) · [Code](../effects/116-like-burst.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/116-like-burst.mp4) · [Code](../effects/116-like-burst.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

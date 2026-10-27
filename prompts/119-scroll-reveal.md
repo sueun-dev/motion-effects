@@ -5,7 +5,7 @@
 **EN** A finger flicks a travel app page up twice; each card fades up as it enters, then the page refreshes and its top rises back in.  
 **KO** 손가락이 여행 앱 페이지를 두 번 밀어 올리면 카드가 들어올 때마다 아래에서 떠오르고, 새로 고침 뒤 맨 위 내용이 다시 올라온다.
 
-[Video (mp4)](../videos/119-scroll-reveal.mp4) · [Code](../effects/119-scroll-reveal.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/119-scroll-reveal.mp4) · [Code](../effects/119-scroll-reveal.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

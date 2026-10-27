@@ -5,7 +5,7 @@
 **EN** A sunset landscape melts downward as each column's bright runs are sorted bright-to-dark, the drips swelling and shrinking each loop.  
 **KO** 노을 풍경의 세로줄마다 밝은 구간이 밝은 순서로 정렬되어 아래로 녹아내리고, 흘러내리는 길이가 루프에 맞춰 늘었다 줄어든다.
 
-[Video (mp4)](../videos/029-pixel-sorting.mp4) · [Code](../effects/029-pixel-sorting.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/029-pixel-sorting.mp4) · [Code](../effects/029-pixel-sorting.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

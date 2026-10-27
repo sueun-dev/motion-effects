@@ -5,7 +5,7 @@
 **EN** A glowing slanted line sweeps across a sunset lake to reveal a night city behind it, then sweeps again to bring the sunset back.  
 **KO** 빛나는 비스듬한 선이 노을 호수를 쓸고 지나가며 뒤의 밤 도시를 드러내고, 다시 쓸어 노을로 되돌린다.
 
-[Video (mp4)](../videos/127-wipe.mp4) · [Code](../effects/127-wipe.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/127-wipe.mp4) · [Code](../effects/127-wipe.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** An 8-bit runner in a red cap dashes through a parallax sunset world, hopping over crates and collecting spinning coins.  
 **KO** 빨간 모자를 쓴 8비트 캐릭터가 시차 스크롤되는 노을 세계를 달리며 나무 상자를 뛰어넘고 도는 동전을 모은다.
 
-[Video (mp4)](../videos/026-pixel-art.mp4) · [Code](../effects/026-pixel-art.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/026-pixel-art.mp4) · [Code](../effects/026-pixel-art.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

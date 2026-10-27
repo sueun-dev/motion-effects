@@ -5,7 +5,7 @@
 **EN** A finger lifts the bottom corner of a book page and peels it over to the left, revealing a picture page, then turns back to the text.  
 **KO** 손가락이 책장 아래 모서리를 들어 왼쪽으로 넘기면 그림이 있는 다음 장이 나오고, 다시 글 페이지로 넘어온다.
 
-[Video (mp4)](../videos/126-page-curl.mp4) · [Code](../effects/126-page-curl.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/126-page-curl.mp4) · [Code](../effects/126-page-curl.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** A finger drags the top profile card off a stack, right with a LIKE stamp, then left with NOPE, while the cards behind move up.  
 **KO** 손가락이 더미의 맨 위 프로필 카드를 오른쪽(LIKE), 다음엔 왼쪽(NOPE)으로 던지고 뒤 카드들이 한 칸씩 올라온다.
 
-[Video (mp4)](../videos/120-card-swipe.mp4) · [Code](../effects/120-card-swipe.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/120-card-swipe.mp4) · [Code](../effects/120-card-swipe.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** A swirling cloud of glowing cyan-to-magenta particles spirals in to spell MAKE MAGIC, holds, then twists back out into a cloud.  
 **KO** 청록에서 자홍으로 빛나는 입자 구름이 소용돌이치며 모여 MAKE MAGIC 글자가 되고, 잠시 머문 뒤 다시 비틀리며 구름으로 흩어진다.
 
-[Video (mp4)](../videos/075-particle-text.mp4) · [Code](../effects/075-particle-text.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/075-particle-text.mp4) · [Code](../effects/075-particle-text.js) · Particles · 파티클
 
 ## Prompt (English)
 

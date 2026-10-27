@@ -5,7 +5,7 @@
 **EN** A glowing cyan geodesic shell turns around a magenta wireframe torus knot and a rocking orbit ring, above a grid fading into fog.  
 **KO** 빛나는 청록 측지 구 껍질이 자홍 와이어프레임 토러스 매듭과 흔들리는 궤도 고리를 감싸고 돌며, 아래 격자는 안개 속으로 사라진다.
 
-[Video (mp4)](../videos/086-wireframe.mp4) · [Code](../effects/086-wireframe.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/086-wireframe.mp4) · [Code](../effects/086-wireframe.js) · 3D · 3D
 
 ## Prompt (English)
 

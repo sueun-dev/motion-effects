@@ -5,7 +5,7 @@
 **EN** A three-armed spiral galaxy of 60,000 stars, warm gold at the core and blue at the rim, turns slowly in a tilted view from above.  
 **KO** 중심은 금빛, 가장자리는 푸른 별 6만 개로 된 세 팔 나선 은하가 비스듬히 내려다본 시점에서 천천히 돈다.
 
-[Video (mp4)](../videos/078-galaxy-spiral.mp4) · [Code](../effects/078-galaxy-spiral.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/078-galaxy-spiral.mp4) · [Code](../effects/078-galaxy-spiral.js) · Particles · 파티클
 
 ## Prompt (English)
 

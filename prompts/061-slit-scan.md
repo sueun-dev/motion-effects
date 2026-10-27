@@ -5,7 +5,7 @@
 **EN** Each row shows a different moment, so a spinning, swaying rainbow flower smears into twisted shapes over wavy stripes.  
 **KO** 줄마다 다른 순간을 보여 줘서, 돌며 흔들리는 무지개 꽃이 비틀린 모양으로 늘어지고 배경 줄무늬는 물결이 된다.
 
-[Video (mp4)](../videos/061-slit-scan.mp4) · [Code](../effects/061-slit-scan.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/061-slit-scan.mp4) · [Code](../effects/061-slit-scan.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

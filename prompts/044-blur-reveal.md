@@ -5,7 +5,7 @@
 **EN** Scattered, blurred letters of FOCUS slide home one by one and snap into sharp focus over soft bokeh, then drift out of focus again.  
 **KO** 흩어져 흐릿한 FOCUS 글자가 은은한 보케 위에서 하나씩 제자리로 오며 또렷해졌다가, 끝에서 다시 초점이 풀린다.
 
-[Video (mp4)](../videos/044-blur-reveal.mp4) · [Code](../effects/044-blur-reveal.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/044-blur-reveal.mp4) · [Code](../effects/044-blur-reveal.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

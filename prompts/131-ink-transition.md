@@ -5,7 +5,7 @@
 **EN** Nine wobbly ink blots with coral and navy rims spread over a sunset lake and fill it with a night city, then spread again back.  
 **KO** 산호색·남색 테두리의 울퉁불퉁한 잉크 얼룩 아홉 개가 번지며 노을 호수를 밤 도시로 채우고, 다시 번져 노을로 돌아온다.
 
-[Video (mp4)](../videos/131-ink-transition.mp4) · [Code](../effects/131-ink-transition.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/131-ink-transition.mp4) · [Code](../effects/131-ink-transition.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

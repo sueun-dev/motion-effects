@@ -5,7 +5,7 @@
 **EN** A soft circle of light drifts over a darkened screen, revealing a night city skyline, its moon and a glowing "SEOUL" neon sign.  
 **KO** 어두워진 화면 위를 부드러운 빛의 원이 떠다니며 밤 도시 스카이라인과 달, 빛나는 "SEOUL" 네온사인을 드러낸다.
 
-[Video (mp4)](../videos/118-spotlight-reveal.mp4) · [Code](../effects/118-spotlight-reveal.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/118-spotlight-reveal.mp4) · [Code](../effects/118-spotlight-reveal.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

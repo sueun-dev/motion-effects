@@ -5,7 +5,7 @@
 **EN** A small figure keeps the same size in a tunnel of red torii gates while the dolly zoom stretches the gates and swells the sun behind.  
 **KO** 붉은 도리이 터널 속 작은 인형은 크기가 그대로인데, 돌리 줌으로 기둥들이 늘어났다 줄고 뒤의 해가 커졌다 작아진다.
 
-[Video (mp4)](../videos/091-dolly-zoom.mp4) · [Code](../effects/091-dolly-zoom.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/091-dolly-zoom.mp4) · [Code](../effects/091-dolly-zoom.js) · 3D · 3D
 
 ## Prompt (English)
 

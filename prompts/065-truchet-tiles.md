@@ -5,7 +5,7 @@
 **EN** A neon tube maze of quarter-circle tiles; diagonal waves of tiles flip a quarter turn, rewiring the winding paths.  
 **KO** 사분원 타일로 된 네온 튜브 미로. 타일들이 대각선 물결처럼 4분의 1씩 돌며 구불구불한 길을 다시 잇는다.
 
-[Video (mp4)](../videos/065-truchet-tiles.mp4) · [Code](../effects/065-truchet-tiles.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/065-truchet-tiles.mp4) · [Code](../effects/065-truchet-tiles.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

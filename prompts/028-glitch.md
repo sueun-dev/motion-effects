@@ -7,7 +7,7 @@
 **EN** A retro striped-sun "GLITCH" poster tears into sliding horizontal bands with RGB split, swelling in two smooth bursts per loop.  
 **KO** 줄무늬 해와 "GLITCH" 글자가 있는 레트로 포스터가 가로 띠로 밀리고 RGB 채널이 갈라지며, 루프마다 두 번 부드럽게 심해졌다 잦아든다.
 
-[Video (mp4)](../videos/028-glitch.mp4) · [Code](../effects/028-glitch.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/028-glitch.mp4) · [Code](../effects/028-glitch.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

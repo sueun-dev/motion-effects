@@ -5,7 +5,7 @@
 **EN** A spoon presses a pink jelly down and lets go; it bounces with overshoot and settles, its top swaying, while a graph plots the spring.  
 **KO** 숟가락이 분홍 젤리를 눌렀다 놓으면 젤리가 오버슈트하며 출렁이다 가라앉고 윗부분이 흔들리며, 아래 그래프가 그 스프링 곡선을 그린다.
 
-[Video (mp4)](../videos/106-spring-jelly.mp4) · [Code](../effects/106-spring-jelly.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/106-spring-jelly.mp4) · [Code](../effects/106-spring-jelly.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

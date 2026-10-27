@@ -5,7 +5,7 @@
 **EN** An arrow cursor loops over a dark landing page, trailing a glowing cyan-to-magenta line that breaks into shrinking dots.  
 **KO** 어두운 랜딩 페이지 위를 도는 화살표 커서 뒤로, 하늘색에서 자홍색으로 빛나는 선이 따라오다 작아지는 점으로 끊어진다.
 
-[Video (mp4)](../videos/117-cursor-trail.mp4) · [Code](../effects/117-cursor-trail.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/117-cursor-trail.mp4) · [Code](../effects/117-cursor-trail.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

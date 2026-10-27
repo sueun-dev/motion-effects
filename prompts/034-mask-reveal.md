@@ -5,7 +5,7 @@
 **EN** Four lines of bold type, "EVERY / LINE / RISES / IN TURN", rise one by one out of invisible slots, hold, then slide up and out.  
 **KO** "EVERY / LINE / RISES / IN TURN" 네 줄의 굵은 글자가 보이지 않는 틈에서 한 줄씩 솟아올라 머문 뒤 위로 빠져나간다.
 
-[Video (mp4)](../videos/034-mask-reveal.mp4) · [Code](../effects/034-mask-reveal.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/034-mask-reveal.mp4) · [Code](../effects/034-mask-reveal.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

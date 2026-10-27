@@ -7,7 +7,7 @@
 **EN** Pastel Memphis shapes, dot grids, zigzags, a squiggle and confetti float on small loops and turn on a cream background.  
 **KO** 크림색 배경 위에서 멤피스풍 파스텔 도형·도트 격자·지그재그·스퀴글·색종이 조각이 작은 원을 그리며 떠다니고 돈다.
 
-[Video (mp4)](../videos/009-memphis-design.mp4) · [Code](../effects/009-memphis-design.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/009-memphis-design.mp4) · [Code](../effects/009-memphis-design.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

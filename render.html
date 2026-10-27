@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>motion effect</title>
+<style>html, body { margin: 0; background: #000; overflow: hidden; } canvas { display: block; }</style>
+<script>
+  // any error ends the render with a message instead of a hang
+  const fail = msg => fetch('/error', { method: 'POST', body: String(msg) });
+  addEventListener('error', e => fail(`${e.message} (${(e.filename || '').split('/').pop()}:${e.lineno})`));
+  addEventListener('unhandledrejection', e => fail(e.reason && e.reason.stack || e.reason));
+</script>
+<script type="importmap">{ "imports": { "three": "/node_modules/three/build/three.module.js", "three/addons/": "/node_modules/three/examples/jsm/" } }</script>
+</head>
+<body>
+<canvas id="out" width="1080" height="1920"></canvas>
+<script type="module" src="/runner.js"></script>
+</body>
+</html>

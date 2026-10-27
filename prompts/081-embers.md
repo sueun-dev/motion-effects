@@ -5,7 +5,7 @@
 **EN** Glowing sparks stream up from a flickering campfire, swaying as they rise and cooling from yellow to red before they fade.  
 **KO** 일렁이는 모닥불에서 빛나는 불티가 흔들리며 솟아오르고, 노랑에서 빨강으로 식어 가다 사그라든다.
 
-[Video (mp4)](../videos/081-embers.mp4) · [Code](../effects/081-embers.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/081-embers.mp4) · [Code](../effects/081-embers.js) · Particles · 파티클
 
 ## Prompt (English)
 

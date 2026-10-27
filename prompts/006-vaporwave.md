@@ -7,7 +7,7 @@
 **EN** A striped synthwave sun sits behind neon-rimmed mountains while a magenta-to-cyan neon grid floor scrolls endlessly toward the viewer.  
 **KO** 줄무늬 신스웨이브 태양이 네온 테두리 산 뒤에 걸려 있고, 자홍에서 청록으로 빛나는 격자 바닥이 끝없이 다가온다.
 
-[Video (mp4)](../videos/006-vaporwave.mp4) · [Code](../effects/006-vaporwave.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/006-vaporwave.mp4) · [Code](../effects/006-vaporwave.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

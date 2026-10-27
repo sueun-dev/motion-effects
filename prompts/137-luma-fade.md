@@ -5,7 +5,7 @@
 **EN** A sunset lake melts into a night city brightest parts first, along a warm glowing edge; then the city melts back the same way.  
 **KO** 노을 호수가 가장 밝은 곳부터 따뜻하게 빛나는 경계를 따라 밤 도시로 녹아들고, 도시도 같은 방식으로 다시 노을로 녹아든다.
 
-[Video (mp4)](../videos/137-luma-fade.mp4) · [Code](../effects/137-luma-fade.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/137-luma-fade.mp4) · [Code](../effects/137-luma-fade.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

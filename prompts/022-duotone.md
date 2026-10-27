@@ -5,7 +5,7 @@
 **EN** A drifting sunset landscape is printed in just two inks, and the pair melts from navy/pink to green/lime, plum/orange and wine/cream.  
 **KO** 천천히 움직이는 노을 풍경이 잉크 두 가지로만 표현되고, 색 쌍이 남색·분홍 → 초록·라임 → 자주·주황 → 와인·크림으로 녹아들듯 바뀐다.
 
-[Video (mp4)](../videos/022-duotone.mp4) · [Code](../effects/022-duotone.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/022-duotone.mp4) · [Code](../effects/022-duotone.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

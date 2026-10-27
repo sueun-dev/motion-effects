@@ -5,7 +5,7 @@
 **EN** Six watercolour drops land one after another on textured paper, bloom outward with ragged darker rims, overlap, then fade away.  
 **KO** 질감 있는 종이에 수채 물감 여섯 방울이 차례로 떨어져 들쭉날쭉한 짙은 가장자리로 번져 퍼지고, 서로 겹쳤다가 옅어진다.
 
-[Video (mp4)](../videos/016-watercolor-bleed.mp4) · [Code](../effects/016-watercolor-bleed.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/016-watercolor-bleed.mp4) · [Code](../effects/016-watercolor-bleed.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

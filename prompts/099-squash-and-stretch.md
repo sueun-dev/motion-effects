@@ -7,7 +7,7 @@
 **EN** A big glossy red ball bounces four times: it stretches tall as it rises and falls, and squashes flat for an instant on the floor.  
 **KO** 커다란 광택 빨간 공이 네 번 튄다: 오르내릴 때는 길쭉하게 늘어나고, 바닥에 닿는 순간 납작하게 찌그러진다.
 
-[Video (mp4)](../videos/099-squash-and-stretch.mp4) · [Code](../effects/099-squash-and-stretch.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/099-squash-and-stretch.mp4) · [Code](../effects/099-squash-and-stretch.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** Drop rings spread across a sunset-over-the-lake picture, bending it like water and catching bright glints on their crests.  
 **KO** 물방울 파문이 노을 진 호수 그림 위로 퍼지며 그림을 물처럼 휘게 하고, 물결 마루에 반짝이는 빛이 맺힌다.
 
-[Video (mp4)](../videos/055-water-ripple.mp4) · [Code](../effects/055-water-ripple.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/055-water-ripple.mp4) · [Code](../effects/055-water-ripple.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

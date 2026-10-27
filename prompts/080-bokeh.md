@@ -5,7 +5,7 @@
 **EN** Soft out-of-focus discs of gold, rose, cyan and violet light drift and overlap while a slow rack focus swaps which layer is sharp.  
 **KO** 금빛·분홍·청록·보라 빛망울이 겹치며 떠다니고, 천천히 초점이 옮겨 가며 선명한 층과 흐린 층이 서로 바뀐다.
 
-[Video (mp4)](../videos/080-bokeh.mp4) · [Code](../effects/080-bokeh.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/080-bokeh.mp4) · [Code](../effects/080-bokeh.js) · Particles · 파티클
 
 ## Prompt (English)
 

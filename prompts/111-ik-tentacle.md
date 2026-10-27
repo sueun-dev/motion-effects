@@ -5,7 +5,7 @@
 **EN** Three tentacles rise from dark seabed rocks and reach for a glowing target on a looping path; the middle one shows its IK joints.  
 **KO** 어두운 해저 바위에서 자란 촉수 세 개가 고리 경로를 도는 빛나는 목표점을 향해 뻗고, 가운데 촉수에는 IK 관절이 보인다.
 
-[Video (mp4)](../videos/111-ik-tentacle.mp4) · [Code](../effects/111-ik-tentacle.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/111-ik-tentacle.mp4) · [Code](../effects/111-ik-tentacle.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

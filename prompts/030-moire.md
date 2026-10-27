@@ -5,7 +5,7 @@
 **EN** Two navy line discs: gratings 4° apart and two offset ring sets slide over each other, sweeping big moiré bands across them.  
 **KO** 남색 선 원판 두 개: 4도 어긋난 두 선 패턴과 중심이 어긋난 두 동심원 패턴이 서로 미끄러지며 큰 무아레 띠가 흐른다.
 
-[Video (mp4)](../videos/030-moire.mp4) · [Code](../effects/030-moire.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/030-moire.mp4) · [Code](../effects/030-moire.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

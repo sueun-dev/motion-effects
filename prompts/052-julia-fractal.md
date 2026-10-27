@@ -5,7 +5,7 @@
 **EN** A glowing Julia set morphs from cauliflower to rabbit to basilica and back as its parameter circles the Mandelbrot cardioid.  
 **KO** 매개변수 c가 만델브로 집합의 카디오이드를 따라 돌면서, 빛나는 줄리아 집합이 콜리플라워에서 토끼, 바실리카 모양으로 변했다가 돌아온다.
 
-[Video (mp4)](../videos/052-julia-fractal.mp4) · [Code](../effects/052-julia-fractal.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/052-julia-fractal.mp4) · [Code](../effects/052-julia-fractal.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

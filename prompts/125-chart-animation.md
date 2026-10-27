@@ -5,7 +5,7 @@
 **EN** A sales dashboard builds up: bars spring up one by one, a line chart draws itself, a donut sweeps its segments and numbers count up.  
 **KO** 매출 대시보드가 채워진다: 막대가 하나씩 솟고, 꺾은선이 그려지고, 도넛이 조각별로 돌며 숫자가 올라간다.
 
-[Video (mp4)](../videos/125-chart-animation.mp4) · [Code](../effects/125-chart-animation.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/125-chart-animation.mp4) · [Code](../effects/125-chart-animation.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

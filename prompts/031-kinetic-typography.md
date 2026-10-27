@@ -7,7 +7,7 @@
 **EN** "MAKE EVERY WORD MOVE" lands word by word (drop, slide, spin, slam), pulses at 120 BPM, then each word flies off in turn.  
 **KO** "MAKE EVERY WORD MOVE"가 떨어지고, 밀려오고, 돌고, 쾅 내려앉으며 한 단어씩 들어와 120BPM으로 들썩이다가 차례로 날아간다.
 
-[Video (mp4)](../videos/031-kinetic-typography.mp4) · [Code](../effects/031-kinetic-typography.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/031-kinetic-typography.mp4) · [Code](../effects/031-kinetic-typography.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

@@ -7,7 +7,7 @@
 **EN** Eight layers of cut-paper waves roll and cast soft shadows under a paper sun and clouds, with a paper sailboat riding the swell.  
 **KO** 종이 해와 구름 아래 여덟 겹의 종이 파도가 부드러운 그림자를 드리우며 출렁이고, 종이 돛단배가 물결을 탄다.
 
-[Video (mp4)](../videos/005-paper-cutout.mp4) · [Code](../effects/005-paper-cutout.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/005-paper-cutout.mp4) · [Code](../effects/005-paper-cutout.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

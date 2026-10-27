@@ -5,7 +5,7 @@
 **EN** 1,200 metal pins rise through a dark board in ripples spreading from the centre, then push up a warm glowing heart and sink back to ripples.  
 **KO** 어두운 판을 뚫고 올라온 금속 핀 1,200개가 가운데서 퍼지는 물결을 만들다가 따뜻한 빛의 하트로 솟고, 다시 물결로 돌아간다.
 
-[Video (mp4)](../videos/098-pin-art.mp4) · [Code](../effects/098-pin-art.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/098-pin-art.mp4) · [Code](../effects/098-pin-art.js) · 3D · 3D
 
 ## Prompt (English)
 

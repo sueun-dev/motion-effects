@@ -7,7 +7,7 @@
 **EN** Loud flat UI cards with thick black borders and hard shadows get clicked one by one by a cursor, sinking flat and popping back up.  
 **KO** 굵은 검은 테두리와 딱딱한 그림자의 원색 UI 카드들을 커서가 하나씩 누르면, 그림자 위로 꺼졌다가 툭 튀어 오른다.
 
-[Video (mp4)](../videos/008-neubrutalism.mp4) · [Code](../effects/008-neubrutalism.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/008-neubrutalism.mp4) · [Code](../effects/008-neubrutalism.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

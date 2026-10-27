@@ -5,7 +5,7 @@
 **EN** Flat icon badges (camera, heart, star, bolt) cast long fading shadows that swing all the way round as the light circles once.  
 **KO** 카메라·하트·별·번개 플랫 아이콘 배지의 길게 옅어지는 그림자가, 빛이 한 바퀴 도는 동안 함께 한 바퀴 돈다.
 
-[Video (mp4)](../videos/015-long-shadow.mp4) · [Code](../effects/015-long-shadow.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/015-long-shadow.mp4) · [Code](../effects/015-long-shadow.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

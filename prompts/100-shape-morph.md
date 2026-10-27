@@ -7,7 +7,7 @@
 **EN** A glossy shape morphs circle → square → star → heart and back to a circle, its colour shifting along, while a row below marks the step.  
 **KO** 광택 있는 도형이 원 → 사각형 → 별 → 하트 → 원으로 매끄럽게 바뀌며 색도 함께 변하고, 아래 줄에 지금 단계가 표시된다.
 
-[Video (mp4)](../videos/100-shape-morph.mp4) · [Code](../effects/100-shape-morph.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/100-shape-morph.mp4) · [Code](../effects/100-shape-morph.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

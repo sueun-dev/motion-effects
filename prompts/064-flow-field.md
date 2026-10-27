@@ -5,7 +5,7 @@
 **EN** Thousands of short glowing strands in teal, amber and pink stream along an invisible swirling flow, like combed hair.  
 **KO** 청록·호박·분홍빛의 짧은 빛 가닥 수천 개가 보이지 않는 소용돌이 흐름을 따라 빗질한 머리카락처럼 흐른다.
 
-[Video (mp4)](../videos/064-flow-field.mp4) · [Code](../effects/064-flow-field.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/064-flow-field.mp4) · [Code](../effects/064-flow-field.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

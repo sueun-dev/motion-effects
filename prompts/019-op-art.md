@@ -5,7 +5,7 @@
 **EN** Black and white stripes bend around drifting bulges and travelling waves, so the whole field seems to swell and squirm.  
 **KO** 흑백 줄무늬가 떠다니는 불룩한 부분과 지나가는 물결에 휘어, 화면 전체가 부풀고 꿈틀거리는 착시를 만든다.
 
-[Video (mp4)](../videos/019-op-art.mp4) · [Code](../effects/019-op-art.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/019-op-art.mp4) · [Code](../effects/019-op-art.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

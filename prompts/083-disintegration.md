@@ -5,7 +5,7 @@
 **EN** A polaroid of a sunset lake crumbles from the right into coloured dust that blows away, then rewinds and reassembles.  
 **KO** 노을 진 호수 폴라로이드 사진이 오른쪽부터 색색의 먼지로 부서져 바람에 날아갔다가, 되감기듯 다시 모여 원래대로 돌아온다.
 
-[Video (mp4)](../videos/083-disintegration.mp4) · [Code](../effects/083-disintegration.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/083-disintegration.mp4) · [Code](../effects/083-disintegration.js) · Particles · 파티클
 
 ## Prompt (English)
 

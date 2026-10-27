@@ -5,7 +5,7 @@
 **EN** A glowing cyan sci-fi HUD: counter-rotating rings and ticks around a radar sweep that lights blips, with bar and wave panels and readouts.  
 **KO** 빛나는 청록 SF HUD: 서로 반대로 도는 링·눈금 안에서 레이더 스윕이 점들을 밝히고, 막대·파형 패널과 수치가 바뀐다.
 
-[Video (mp4)](../videos/020-sci-fi-hud.mp4) · [Code](../effects/020-sci-fi-hud.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/020-sci-fi-hud.mp4) · [Code](../effects/020-sci-fi-hud.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

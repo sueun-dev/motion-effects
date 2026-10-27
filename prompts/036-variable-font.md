@@ -5,7 +5,7 @@
 **EN** Each letter of "BREATHE" swells from thin to black weight just after its neighbour, so the word widens and narrows; a slider reads the weight.  
 **KO** "BREATHE"의 글자들이 이웃보다 조금씩 늦게 가장 가는 굵기에서 가장 두꺼운 굵기로 숨 쉬듯 변해 단어가 넓어졌다 좁아지고, 슬라이더가 굵기 값을 보여 준다.
 
-[Video (mp4)](../videos/036-variable-font.mp4) · [Code](../effects/036-variable-font.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/036-variable-font.mp4) · [Code](../effects/036-variable-font.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

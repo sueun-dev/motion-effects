@@ -7,7 +7,7 @@
 **EN** A holographic foil trading card tilts in a slow circle as rainbow thin-film colours, glitter and a glare band slide across it.  
 **KO** 홀로그램 포일 카드가 천천히 원을 그리며 기울고, 무지갯빛 박막 색·글리터·반사광 띠가 표면을 따라 흐른다.
 
-[Video (mp4)](../videos/002-holographic.mp4) · [Code](../effects/002-holographic.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/002-holographic.mp4) · [Code](../effects/002-holographic.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

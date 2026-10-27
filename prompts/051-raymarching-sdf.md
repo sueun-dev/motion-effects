@@ -5,7 +5,7 @@
 **EN** A coral torus, a pulsing core and three blue spheres melt into each other as the group spins above a softly shadowed floor.  
 **KO** 산호색 도넛, 맥동하는 핵, 파란 구 세 개가 부드럽게 녹아 붙으며 회전하고, 아래 바닥에 부드러운 그림자가 진다.
 
-[Video (mp4)](../videos/051-raymarching-sdf.mp4) · [Code](../effects/051-raymarching-sdf.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/051-raymarching-sdf.mp4) · [Code](../effects/051-raymarching-sdf.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

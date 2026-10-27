@@ -5,7 +5,7 @@
 **EN** Four summed sine fields run through a cycling rainbow palette, so psychedelic colour bands and rings flow across the screen.  
 **KO** 사인파 네 개를 더한 값을 계속 도는 무지개 팔레트에 넣어, 사이키델릭한 색 띠와 고리가 화면 가득 흐른다.
 
-[Video (mp4)](../videos/049-plasma.mp4) · [Code](../effects/049-plasma.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/049-plasma.mp4) · [Code](../effects/049-plasma.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

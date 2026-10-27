@@ -4,7 +4,7 @@
 //   node render.mjs --jobs 3 ...     -> 3 effects side by side (default 2)
 // Also writes previews/NNN-slug.webp (240 px animated preview for the README), check/NNN-slug.png
 // (frames 0, 29, 64, 101, 137 side by side) and check/NNN-slug.json (motion numbers).
-// The page (index.html + runner.js) posts each frame as a PNG to the small server here, which pipes it to ffmpeg.
+// The page (render.html + runner.js) posts each frame as a PNG to the small server here, which pipes it to ffmpeg.
 import { spawn } from 'node:child_process';
 import { createServer } from 'node:http';
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
@@ -84,7 +84,7 @@ async function renderOne(id) {
     '--no-default-browser-check', ...(process.platform === 'darwin' ? ['--use-angle=metal'] : []),
     '--enable-gpu', '--ignore-gpu-blocklist', '--force-color-profile=srgb',
     '--disable-background-timer-throttling', '--disable-renderer-backgrounding',
-    `http://127.0.0.1:${server.address().port}/index.html?fx=${id}`], { stdio: 'ignore' });
+    `http://127.0.0.1:${server.address().port}/render.html?fx=${id}`], { stdio: 'ignore' });
   const watchdog = setInterval(() => { if (Date.now() - last > 90000) finish({ error: 'no frame for 90 s' }); }, 1000);
   const r = await result;
   clearInterval(watchdog);

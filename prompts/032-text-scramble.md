@@ -7,7 +7,7 @@
 **EN** "SIGNAL / DECODED" cycles through random glyphs, locks in letter by letter with a cyan glow and a progress bar, then scrambles away.  
 **KO** "SIGNAL / DECODED"가 무작위 문자로 돌다가 청록 빛과 진행 막대와 함께 한 글자씩 제 글자로 맞춰지고, 다시 뒤섞여 사라진다.
 
-[Video (mp4)](../videos/032-text-scramble.mp4) · [Code](../effects/032-text-scramble.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/032-text-scramble.mp4) · [Code](../effects/032-text-scramble.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

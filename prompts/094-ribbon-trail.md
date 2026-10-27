@@ -5,7 +5,7 @@
 **EN** Three glossy gradient ribbons chase their own heads around twisting 3D loops in dark violet space, tapering into thin fading tails.  
 **KO** 어두운 보라 공간에서 광택 나는 그라디언트 리본 세 개가 비틀린 3D 고리를 따라 제 머리를 쫓고, 꼬리는 가늘어지며 사라진다.
 
-[Video (mp4)](../videos/094-ribbon-trail.mp4) · [Code](../effects/094-ribbon-trail.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/094-ribbon-trail.mp4) · [Code](../effects/094-ribbon-trail.js) · 3D · 3D
 
 ## Prompt (English)
 

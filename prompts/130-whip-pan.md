@@ -5,7 +5,7 @@
 **EN** The view whips sideways in a heavy horizontal motion blur from a sunset lake to a night city, holds, then whips on to the sunset.  
 **KO** 화면이 강한 가로 모션 블러와 함께 노을 호수에서 밤 도시로 휙 넘어가 머물다가, 다시 휙 노을로 넘어간다.
 
-[Video (mp4)](../videos/130-whip-pan.mp4) · [Code](../effects/130-whip-pan.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/130-whip-pan.mp4) · [Code](../effects/130-whip-pan.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

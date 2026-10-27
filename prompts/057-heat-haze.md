@@ -5,7 +5,7 @@
 **EN** A desert road shimmers in rising heat: the picture wobbles sideways in waves that climb the screen, strongest at the horizon.  
 **KO** 사막 도로 그림이 올라오는 열기에 일렁인다. 옆으로 흔들리는 물결이 화면 위로 흐르고 지평선에서 가장 세다.
 
-[Video (mp4)](../videos/057-heat-haze.mp4) · [Code](../effects/057-heat-haze.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/057-heat-haze.mp4) · [Code](../effects/057-heat-haze.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

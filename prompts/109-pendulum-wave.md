@@ -5,7 +5,7 @@
 **EN** Ten pendulums seen from above swing 1 to 10 times per loop, so the row snakes, splits into several lines and lines up again.  
 **KO** 위에서 내려다본 진자 10개가 한 루프에 1번부터 10번까지 흔들려, 줄이 뱀처럼 꿈틀대다 여러 줄로 갈라지고 다시 한 줄로 선다.
 
-[Video (mp4)](../videos/109-pendulum-wave.mp4) · [Code](../effects/109-pendulum-wave.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/109-pendulum-wave.mp4) · [Code](../effects/109-pendulum-wave.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

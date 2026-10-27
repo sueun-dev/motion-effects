@@ -5,7 +5,7 @@
 **EN** A glowing iris closes on the sun, pauses, shuts, then opens on the moon over a night city; the reverse brings the sunset back.  
 **KO** 빛나는 원이 해 위로 오므라들어 잠깐 멈췄다 닫히고, 밤 도시의 달에서 다시 열린다. 반대로 하면 노을로 돌아온다.
 
-[Video (mp4)](../videos/128-iris.mp4) · [Code](../effects/128-iris.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/128-iris.mp4) · [Code](../effects/128-iris.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

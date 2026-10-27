@@ -5,7 +5,7 @@
 **EN** An orange blob crouches, leans back and squints before each hop, springs over, lands with a squash; a second hop brings it back.  
 **KO** 주황 젤리 캐릭터가 뛰기 전 몸을 움츠리고 뒤로 기울며 눈을 찡그렸다가 튀어 넘어가 납작하게 착지하고, 두 번째 점프로 돌아온다.
 
-[Video (mp4)](../videos/103-anticipation.mp4) · [Code](../effects/103-anticipation.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/103-anticipation.mp4) · [Code](../effects/103-anticipation.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

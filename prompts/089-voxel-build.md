@@ -5,7 +5,7 @@
 **EN** Cubes drop one by one onto a stone pedestal, building a grass patch, a trunk and a leafy apple tree layer by layer, then pop away.  
 **KO** 정육면체가 하나씩 돌 받침 위로 떨어져 잔디, 줄기, 사과 달린 잎사귀를 층층이 쌓아 나무를 완성한 뒤 톡톡 사라진다.
 
-[Video (mp4)](../videos/089-voxel-build.mp4) · [Code](../effects/089-voxel-build.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/089-voxel-build.mp4) · [Code](../effects/089-voxel-build.js) · 3D · 3D
 
 ## Prompt (English)
 

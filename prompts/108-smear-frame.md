@@ -5,7 +5,7 @@
 **EN** A hand whips a red mallet from side to side; during each fast swing the head is drawn as one long smeared arc with speed lines.  
 **KO** 손이 빨간 망치를 좌우로 휘두르고, 빠르게 휘두르는 순간마다 망치 머리가 속도선과 함께 길게 번진 호 하나로 그려진다.
 
-[Video (mp4)](../videos/108-smear-frame.mp4) · [Code](../effects/108-smear-frame.js) · Animation principles · 애니메이션 원리
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/108-smear-frame.mp4) · [Code](../effects/108-smear-frame.js) · Animation principles · 애니메이션 원리
 
 ## Prompt (English)
 

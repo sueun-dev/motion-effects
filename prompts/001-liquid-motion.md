@@ -7,7 +7,7 @@
 **EN** Six glossy violet-pink liquid blobs drift on looping paths over a dark purple backdrop, melting together and pinching apart.  
 **KO** 윤기 나는 보라·분홍 액체 덩어리 여섯 개가 어두운 보라 배경 위를 돌며 녹아 붙었다가 떨어진다.
 
-[Video (mp4)](../videos/001-liquid-motion.mp4) · [Code](../effects/001-liquid-motion.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/001-liquid-motion.mp4) · [Code](../effects/001-liquid-motion.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

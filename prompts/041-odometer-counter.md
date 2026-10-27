@@ -5,7 +5,7 @@
 **EN** Five motion-blurred odometer wheels roll upward from 00000 to 25713, 68259 and 99999, then roll over back to 00000.  
 **KO** 모션 블러가 걸린 주행거리계 다섯 자리가 위로 굴러 00000 → 25713 → 68259 → 99999로 오른 뒤 00000으로 넘어간다.
 
-[Video (mp4)](../videos/041-odometer-counter.mp4) · [Code](../effects/041-odometer-counter.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/041-odometer-counter.mp4) · [Code](../effects/041-odometer-counter.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

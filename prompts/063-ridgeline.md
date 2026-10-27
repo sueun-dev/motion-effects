@@ -5,7 +5,7 @@
 **EN** Forty-two stacked line profiles, cyan to magenta, form a mountain range while a wave rolls down lifting each line's peaks in turn.  
 **KO** 청록에서 자홍으로 물드는 선 42개가 겹쳐 산맥을 이루고, 파동이 아래로 굴러가며 선마다 봉우리를 차례로 들어 올린다.
 
-[Video (mp4)](../videos/063-ridgeline.mp4) · [Code](../effects/063-ridgeline.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/063-ridgeline.mp4) · [Code](../effects/063-ridgeline.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

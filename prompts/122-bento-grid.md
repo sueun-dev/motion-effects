@@ -5,7 +5,7 @@
 **EN** Six dashboard tiles on a dark bento grid glide between three layouts; photos re-crop and text re-flows as each tile resizes.  
 **KO** 어두운 벤토 그리드의 대시보드 타일 여섯 개가 세 가지 배치를 오가고, 크기가 바뀔 때마다 사진은 다시 잘리고 글자는 다시 배치된다.
 
-[Video (mp4)](../videos/122-bento-grid.mp4) · [Code](../effects/122-bento-grid.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/122-bento-grid.mp4) · [Code](../effects/122-bento-grid.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

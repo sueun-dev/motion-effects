@@ -5,7 +5,7 @@
 **EN** A light band sweeps over grey skeleton cards, the real posts (photo, name, text) fade in piece by piece, then fold back.  
 **KO** 회색 스켈레톤 카드 위로 빛줄기가 훑고, 사진·이름·글이 하나씩 나타났다가 다시 스켈레톤으로 돌아간다.
 
-[Video (mp4)](../videos/112-skeleton-shimmer.mp4) · [Code](../effects/112-skeleton-shimmer.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/112-skeleton-shimmer.mp4) · [Code](../effects/112-skeleton-shimmer.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

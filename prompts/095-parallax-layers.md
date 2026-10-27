@@ -5,7 +5,7 @@
 **EN** A red car holds the centre of a dusk road while clouds, mountains, pine hills, road dashes and bushes slide past at different speeds.  
 **KO** 해 질 녘 도로 한가운데 빨간 자동차는 제자리에 있고, 구름·산·소나무 언덕·차선·덤불이 서로 다른 속도로 지나간다.
 
-[Video (mp4)](../videos/095-parallax-layers.mp4) · [Code](../effects/095-parallax-layers.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/095-parallax-layers.mp4) · [Code](../effects/095-parallax-layers.js) · 3D · 3D
 
 ## Prompt (English)
 

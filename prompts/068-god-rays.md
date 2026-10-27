@@ -5,7 +5,7 @@
 **EN** Warm shafts of light pour down through gaps in a drifting dark cloud layer over dusky rolling hills.  
 **KO** 천천히 흐르는 어두운 구름층 틈으로 따뜻한 빛줄기가 쏟아져 내려 해 질 녘 언덕을 비춘다.
 
-[Video (mp4)](../videos/068-god-rays.mp4) · [Code](../effects/068-god-rays.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/068-god-rays.mp4) · [Code](../effects/068-god-rays.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

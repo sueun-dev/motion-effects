@@ -5,7 +5,7 @@
 **EN** A smartphone floats apart into its layers (glass, screen, frame, board, battery and back), holds, then slides back together.  
 **KO** 스마트폰이 유리·화면·프레임·기판·배터리·뒷판 층으로 위아래로 벌어졌다가 잠시 머문 뒤 다시 하나로 조립된다.
 
-[Video (mp4)](../videos/090-exploded-view.mp4) · [Code](../effects/090-exploded-view.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/090-exploded-view.mp4) · [Code](../effects/090-exploded-view.js) · 3D · 3D
 
 ## Prompt (English)
 

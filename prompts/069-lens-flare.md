@@ -5,7 +5,7 @@
 **EN** A bright starburst light circles a starry dusk sky while hexagonal lens ghosts and a rainbow halo swing to the opposite side.  
 **KO** 별이 뜬 저녁 하늘을 밝은 별 모양 광원이 돌고, 육각형 렌즈 고스트와 무지개 헤일로가 반대편으로 따라 움직인다.
 
-[Video (mp4)](../videos/069-lens-flare.mp4) · [Code](../effects/069-lens-flare.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/069-lens-flare.mp4) · [Code](../effects/069-lens-flare.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

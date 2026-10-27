@@ -5,7 +5,7 @@
 **EN** The word ECHO glides around an oval while fourteen time-delayed copies trail behind it, fading from orange through pink to violet.  
 **KO** ECHO 단어가 타원을 그리며 움직이고, 시간차를 둔 복사본 열네 개가 주황에서 분홍, 보라로 옅어지며 뒤따른다.
 
-[Video (mp4)](../videos/045-echo-text.mp4) · [Code](../effects/045-echo-text.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/045-echo-text.mp4) · [Code](../effects/045-echo-text.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

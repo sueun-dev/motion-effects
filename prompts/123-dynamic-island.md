@@ -5,7 +5,7 @@
 **EN** On a phone lock screen the black pill at the top springs open into a message notification, shrinks, then opens into a music player.  
 **KO** 폰 잠금 화면 위쪽의 검은 알약이 튕기듯 커져 메시지 알림이 되고, 줄어든 뒤 다시 음악 플레이어로 펼쳐진다.
 
-[Video (mp4)](../videos/123-dynamic-island.mp4) · [Code](../effects/123-dynamic-island.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/123-dynamic-island.mp4) · [Code](../effects/123-dynamic-island.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

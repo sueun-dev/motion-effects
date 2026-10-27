@@ -5,7 +5,7 @@
 **EN** About 110 glowing dots drift gently; nearby pairs join with fading lines and faint triangle facets, forming a shifting blue-violet web.  
 **KO** 빛나는 점 110여 개가 천천히 떠다니고, 가까운 점끼리 서서히 나타나는 선과 옅은 삼각형 면으로 이어져 파랑·보라 그물이 계속 바뀐다.
 
-[Video (mp4)](../videos/079-plexus.mp4) · [Code](../effects/079-plexus.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/079-plexus.mp4) · [Code](../effects/079-plexus.js) · Particles · 파티클
 
 ## Prompt (English)
 

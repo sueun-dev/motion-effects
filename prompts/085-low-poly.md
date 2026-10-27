@@ -7,7 +7,7 @@
 **EN** A faceted island with a snowy peak and pine trees sits in a rippling faceted sea under a pastel sky with polygon clouds.  
 **KO** 눈 덮인 봉우리와 소나무가 있는 각진 섬이 일렁이는 각진 바다 위에 있고, 파스텔 하늘에 다면체 구름이 떠다닌다.
 
-[Video (mp4)](../videos/085-low-poly.mp4) · [Code](../effects/085-low-poly.js) · 3D · 3D
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/085-low-poly.mp4) · [Code](../effects/085-low-poly.js) · 3D · 3D
 
 ## Prompt (English)
 

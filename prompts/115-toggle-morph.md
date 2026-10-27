@@ -5,7 +5,7 @@
 **EN** A finger taps three controls in turn: a switch slides and turns green, a hamburger morphs into an X, play morphs into pause.  
 **KO** 손가락이 컨트롤 세 개를 차례로 누르면 스위치가 초록으로 넘어가고, 햄버거가 X로, 재생이 일시정지로 바뀐다.
 
-[Video (mp4)](../videos/115-toggle-morph.mp4) · [Code](../effects/115-toggle-morph.js) · UI & interaction · UI·인터랙션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/115-toggle-morph.mp4) · [Code](../effects/115-toggle-morph.js) · UI & interaction · UI·인터랙션
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** Dusty-coloured Voronoi cells with dark membranes and a glossy nucleus each reshape as their centre points wander on small loops.  
 **KO** 어두운 막과 반짝이는 핵을 가진 차분한 색의 보로노이 세포들이, 중심점이 작은 고리를 그리며 떠돌 때마다 모양을 바꾼다.
 
-[Video (mp4)](../videos/050-voronoi.mp4) · [Code](../effects/050-voronoi.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/050-voronoi.mp4) · [Code](../effects/050-voronoi.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** Blue-white star streaks rush out from a glowing violet core, growing longer and brighter as they pass, like a jump to hyperspace.  
 **KO** 빛나는 보랏빛 중심에서 푸르고 흰 별빛 줄기가 사방으로 쏟아져 나오며 가까워질수록 길고 밝아지는, 초공간 점프 같은 장면.
 
-[Video (mp4)](../videos/076-warp-starfield.mp4) · [Code](../effects/076-warp-starfield.js) · Particles · 파티클
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/076-warp-starfield.mp4) · [Code](../effects/076-warp-starfield.js) · Particles · 파티클
 
 ## Prompt (English)
 

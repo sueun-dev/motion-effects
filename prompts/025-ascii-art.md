@@ -5,7 +5,7 @@
 **EN** The classic spinning ASCII donut: a torus built from ".,-~:;=!*#$@" in bold monospace, its light shading violet to cream.  
 **KO** 고전 아스키 도넛: 굵은 고정폭 문자 ".,-~:;=!*#$@"로 만든 토러스가 돌고, 빛에 따라 보라에서 크림색으로 물든다.
 
-[Video (mp4)](../videos/025-ascii-art.mp4) · [Code](../effects/025-ascii-art.js) · Print, retro & glitch · 인쇄·레트로·글리치
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/025-ascii-art.mp4) · [Code](../effects/025-ascii-art.js) · Print, retro & glitch · 인쇄·레트로·글리치
 
 ## Prompt (English)
 

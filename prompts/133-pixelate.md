@@ -5,7 +5,7 @@
 **EN** A sunset lake breaks into ever bigger square blocks, blends into a night city at the coarsest mosaic, sharpens, then goes back.  
 **KO** 노을 호수가 점점 커지는 네모 블록으로 깨지고, 가장 거친 모자이크에서 밤 도시로 섞인 뒤 선명해진다. 그리고 거꾸로 돌아온다.
 
-[Video (mp4)](../videos/133-pixelate.mp4) · [Code](../effects/133-pixelate.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/133-pixelate.mp4) · [Code](../effects/133-pixelate.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

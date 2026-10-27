@@ -5,7 +5,7 @@
 **EN** The pastel letters of "MAKING WAVES" bob up and down one after another, so a wave runs through the words above swaying sea lines.  
 **KO** "MAKING WAVES"의 파스텔 글자들이 차례로 시간차를 두고 오르내려 단어 속으로 파도가 지나가고, 아래에서는 물결 선이 일렁인다.
 
-[Video (mp4)](../videos/035-wave-text.mp4) · [Code](../effects/035-wave-text.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/035-wave-text.mp4) · [Code](../effects/035-wave-text.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

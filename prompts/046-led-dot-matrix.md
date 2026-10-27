@@ -5,7 +5,7 @@
 **EN** Three glowing messages in red, amber and green scroll smoothly across a panel of round LEDs that fade in and out softly.  
 **KO** 둥근 LED 점 판 위로 빨강·주황·초록으로 빛나는 세 줄 문구가 부드럽게 흐르고, LED는 툭 켜지지 않고 서서히 밝아지고 어두워진다.
 
-[Video (mp4)](../videos/046-led-dot-matrix.mp4) · [Code](../effects/046-led-dot-matrix.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/046-led-dot-matrix.mp4) · [Code](../effects/046-led-dot-matrix.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

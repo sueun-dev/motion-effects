@@ -5,7 +5,7 @@
 **EN** A red block, black circle, rule and huge "Swiss Style" type slide cell to cell on a faint grid through four poster layouts.  
 **KO** 옅은 격자 위에서 빨간 블록·검은 원·막대·큰 "Swiss Style" 글자가 칸 단위로 미끄러지며 네 가지 포스터 배치를 오간다.
 
-[Video (mp4)](../videos/017-swiss-style.mp4) · [Code](../effects/017-swiss-style.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/017-swiss-style.mp4) · [Code](../effects/017-swiss-style.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

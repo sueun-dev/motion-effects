@@ -5,7 +5,7 @@
 **EN** Background-coloured soft-UI controls (a power button, three icon buttons, a toggle) press in and pop back out using only light and shadow.  
 **KO** 배경과 같은 색의 소프트 UI 컨트롤(전원 버튼, 아이콘 버튼 셋, 토글)이 빛과 그림자만으로 오목하게 눌렸다가 볼록하게 돌아온다.
 
-[Video (mp4)](../videos/012-neumorphism.mp4) · [Code](../effects/012-neumorphism.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/012-neumorphism.mp4) · [Code](../effects/012-neumorphism.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

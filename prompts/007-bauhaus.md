@@ -7,7 +7,7 @@
 **EN** A 3 × 4 grid of primary-colour Bauhaus tiles; on every beat each tile's shape turns a quarter turn in place, rippling diagonally.  
 **KO** 원색 바우하우스 타일 3 × 4 격자에서 박자마다 각 타일의 도형이 제자리에서 90도씩 돌고, 그 회전이 대각선으로 물결처럼 번진다.
 
-[Video (mp4)](../videos/007-bauhaus.mp4) · [Code](../effects/007-bauhaus.js) · Design styles · 디자인 스타일
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/007-bauhaus.mp4) · [Code](../effects/007-bauhaus.js) · Design styles · 디자인 스타일
 
 ## Prompt (English)
 

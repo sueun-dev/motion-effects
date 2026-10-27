@@ -5,7 +5,7 @@
 **EN** A sunset with a bobbing sun, drifting clouds and parallax mountain ridges moves behind the words SUN SET cut out of a cream panel.  
 **KO** 크림색 판에 뚫린 SUN SET 글자 구멍 뒤로, 살짝 오르내리는 해와 흘러가는 구름, 시차를 두고 미끄러지는 산 능선의 노을 풍경이 지나간다.
 
-[Video (mp4)](../videos/043-knockout-text.mp4) · [Code](../effects/043-knockout-text.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/043-knockout-text.mp4) · [Code](../effects/043-knockout-text.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 

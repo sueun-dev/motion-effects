@@ -5,7 +5,7 @@
 **EN** Twelve horizontal slats turn over one after another from the top, flipping a sunset lake into a night city, then turning back.  
 **KO** 가로 띠 열두 개가 위에서부터 차례로 뒤집히며 노을 호수를 밤 도시로 바꾸고, 한 번 더 돌아 노을로 되돌린다.
 
-[Video (mp4)](../videos/134-venetian-blinds.mp4) · [Code](../effects/134-venetian-blinds.js) · Transitions · 트랜지션
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/134-venetian-blinds.mp4) · [Code](../effects/134-venetian-blinds.js) · Transitions · 트랜지션
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** Jewel-like dots and cream rings fold into an 8-fold mirrored mandala that slowly turns and keeps changing shape.  
 **KO** 보석 같은 점과 크림색 고리가 8방향 거울 대칭 만다라로 접혀 천천히 돌며 계속 모양을 바꾼다.
 
-[Video (mp4)](../videos/053-kaleidoscope.mp4) · [Code](../effects/053-kaleidoscope.js) · Shaders & generative · 셰이더·제너러티브
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/053-kaleidoscope.mp4) · [Code](../effects/053-kaleidoscope.js) · Shaders & generative · 셰이더·제너러티브
 
 ## Prompt (English)
 

@@ -5,7 +5,7 @@
 **EN** A departures board flips its tiles in a diagonal wave through random letters, from SEOUL, TOKYO, PARIS, LONDON to four new cities and back.  
 **KO** 출발 안내판의 글자판이 대각선 물결처럼 차례로 접히며 무작위 글자를 거쳐 SEOUL·TOKYO·PARIS·LONDON에서 새 도시 네 곳으로, 다시 처음으로 바뀐다.
 
-[Video (mp4)](../videos/042-split-flap.mp4) · [Code](../effects/042-split-flap.js) · Typography · 타이포그래피
+[Video (mp4)](https://sueun-dev.github.io/motion-effects/videos/042-split-flap.mp4) · [Code](../effects/042-split-flap.js) · Typography · 타이포그래피
 
 ## Prompt (English)
 
