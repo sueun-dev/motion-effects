@@ -242,3 +242,159 @@ W = 1080, H = 1920, t는 초 단위(0~5). 제목 라벨은 렌더러가 넣으�
 | 136 | [Light Leak · 라이트 리크](136-light-leak.md) |
 | 137 | [Luma Fade · 루마 페이드](137-luma-fade.md) |
 
+### 10. Lighting & shadows · 조명·그림자
+
+| # | Effect · 효과 |
+|---|---|
+| 138 | [Three-Point Lighting · 3점 조명](138-three-point-lighting.md) |
+| 139 | [Flat, Gouraud & Phong · 플랫·고러드·퐁 셰이딩](139-shading-models.md) |
+| 140 | [PBR Materials · PBR 재질](140-pbr-materials.md) |
+| 141 | [Image-Based Lighting · 이미지 기반 조명](141-image-based-lighting.md) |
+| 142 | [Shadow Mapping · 그림자 매핑](142-shadow-mapping.md) |
+| 143 | [Soft Shadows · 소프트 섀도](143-soft-shadows.md) |
+| 144 | [Ambient Occlusion · 앰비언트 오클루전](144-ambient-occlusion.md) |
+| 145 | [Global Illumination · 전역 조명](145-global-illumination.md) |
+| 146 | [Many Lights · 다수 광원](146-many-lights.md) |
+| 147 | [Area Lights · 면 광원](147-area-lights.md) |
+| 148 | [Projected Texture · 투사 텍스처](148-projector-gobo.md) |
+
+### 11. Materials & surface detail · 재질·표면
+
+| # | Effect · 효과 |
+|---|---|
+| 149 | [Subsurface Scattering · 서브서피스 스캐터링](149-subsurface-scattering.md) |
+| 150 | [Thin-Film Iridescence · 박막 간섭](150-thin-film-iridescence.md) |
+| 151 | [Car Paint · 카 페인트](151-car-paint.md) |
+| 152 | [Anisotropic Metal · 이방성 금속](152-anisotropic-metal.md) |
+| 153 | [Velvet Sheen · 벨벳 광택](153-velvet-sheen.md) |
+| 154 | [Fresnel Rim · 프레넬 림](154-fresnel-rim.md) |
+| 155 | [Matcap · 맷캡](155-matcap.md) |
+| 156 | [Normal Mapping · 노멀 매핑](156-normal-mapping.md) |
+| 157 | [Parallax Occlusion Mapping · 시차 차폐 매핑](157-parallax-occlusion-mapping.md) |
+| 158 | [Displacement Mapping · 디스플레이스먼트 매핑](158-displacement-mapping.md) |
+| 159 | [Triplanar Mapping · 트라이플래너 매핑](159-triplanar-mapping.md) |
+| 160 | [Solid Texture · 솔리드 텍스처](160-solid-texture.md) |
+| 161 | [Shell Fur · 셸 털](161-shell-fur.md) |
+| 162 | [Decal Projection · 데칼 투영](162-decal-projection.md) |
+
+### 12. Reflection, refraction & ray tracing · 반사·굴절·레이 트레이싱
+
+| # | Effect · 효과 |
+|---|---|
+| 163 | [Planar Reflection · 평면 반사](163-planar-reflection.md) |
+| 164 | [Screen-Space Reflections · 스크린 스페이스 반사](164-screen-space-reflections.md) |
+| 165 | [Dynamic Cube Map · 동적 큐브맵](165-dynamic-cube-map.md) |
+| 166 | [Ray Tracing · 레이 트레이싱](166-ray-tracing.md) |
+| 167 | [Prism Dispersion · 프리즘 분산](167-prism-dispersion.md) |
+| 168 | [Infinity Mirror · 무한 거울](168-infinity-mirror.md) |
+| 169 | [Stencil Portal · 스텐실 포털](169-stencil-portal.md) |
+
+### 13. Atmosphere & volumes · 대기·볼륨
+
+| # | Effect · 효과 |
+|---|---|
+| 170 | [Volumetric Clouds · 볼류메트릭 구름](170-volumetric-clouds.md) |
+| 171 | [Atmospheric Scattering · 대기 산란](171-atmospheric-scattering.md) |
+| 172 | [Distance & Height Fog · 거리·높이 안개](172-height-fog.md) |
+| 173 | [Volumetric Spotlight · 볼류메트릭 스포트라이트](173-volumetric-spotlight.md) |
+| 174 | [Volumetric Fireball · 볼류메트릭 화염구](174-volumetric-fireball.md) |
+| 175 | [Nebula · 성운](175-nebula.md) |
+| 176 | [Gravitational Lensing · 중력 렌즈](176-gravitational-lensing.md) |
+| 177 | [Underwater · 수중](177-underwater.md) |
+
+### 14. Geometry & modeling · 지오메트리·모델링
+
+| # | Effect · 효과 |
+|---|---|
+| 178 | [Subdivision Surface · 서브디비전 서피스](178-subdivision-surface.md) |
+| 179 | [Lathe · 회전체](179-lathe.md) |
+| 180 | [Sweep & Loft · 스윕·로프트](180-sweep-loft.md) |
+| 181 | [CSG Boolean · 불리언 연산](181-csg-boolean.md) |
+| 182 | [Parametric Surfaces · 매개변수 곡면](182-parametric-surfaces.md) |
+| 183 | [Marching Cubes · 마칭 큐브](183-marching-cubes.md) |
+| 184 | [Bézier Patch · 베지어 곡면](184-bezier-patch.md) |
+| 185 | [UV Unwrap · UV 펼치기](185-uv-unwrap.md) |
+| 186 | [Point Cloud · 포인트 클라우드](186-point-cloud.md) |
+| 187 | [Gaussian Splatting · 가우시안 스플래팅](187-gaussian-splatting.md) |
+| 188 | [GPU Instancing · GPU 인스턴싱](188-gpu-instancing.md) |
+| 189 | [Voronoi Fracture · 보로노이 파쇄](189-voronoi-fracture.md) |
+
+### 15. Simulation & physics · 시뮬레이션·물리
+
+| # | Effect · 효과 |
+|---|---|
+| 190 | [Rigid Body · 강체 물리](190-rigid-body.md) |
+| 191 | [Soft Body · 소프트 바디](191-soft-body.md) |
+| 192 | [Cloth Drape · 천 드레이프](192-cloth-drape.md) |
+| 193 | [Particle Fluid · 입자 유체](193-particle-fluid.md) |
+| 194 | [Ocean Waves · 바다 파도](194-ocean-waves.md) |
+| 195 | [Rope & Chain · 로프·체인](195-verlet-rope.md) |
+| 196 | [N-Body Gravity · 다체 중력](196-n-body-gravity.md) |
+| 197 | [Granular Sand · 모래 입자](197-granular-sand.md) |
+
+### 16. Nature & procedural worlds · 자연·절차적 세계
+
+| # | Effect · 효과 |
+|---|---|
+| 198 | [Procedural Terrain · 절차적 지형](198-procedural-terrain.md) |
+| 199 | [Grass Field · 잔디밭](199-grass-field.md) |
+| 200 | [Tree Growth · 나무 성장](200-tree-growth.md) |
+| 201 | [Procedural City · 절차적 도시](201-procedural-city.md) |
+| 202 | [Procedural Planet · 절차적 행성](202-procedural-planet.md) |
+| 203 | [Water Surface · 물 표면](203-water-surface.md) |
+| 204 | [Wave Function Collapse · 파동 함수 붕괴](204-wave-function-collapse.md) |
+| 205 | [3D Phyllotaxis · 3D 잎차례](205-phyllotaxis-3d.md) |
+
+### 17. Raymarching & fractals · 레이마칭·프랙털
+
+| # | Effect · 효과 |
+|---|---|
+| 206 | [Mandelbulb · 만델벌브](206-mandelbulb.md) |
+| 207 | [Menger Sponge · 멩거 스펀지](207-menger-sponge.md) |
+| 208 | [Mandelbox · 만델박스](208-mandelbox.md) |
+| 209 | [Domain Repetition · 도메인 반복](209-domain-repetition.md) |
+| 210 | [Quaternion Julia · 쿼터니언 줄리아](210-quaternion-julia.md) |
+| 211 | [Sierpinski Tetrahedron · 시에르핀스키 사면체](211-sierpinski-tetrahedron.md) |
+| 212 | [Apollonian Fractal · 아폴로니안 프랙털](212-apollonian-fractal.md) |
+| 213 | [4D Tesseract · 4차원 테서랙트](213-tesseract-4d.md) |
+| 214 | [Cave Fly-through · 동굴 비행](214-cave-flythrough.md) |
+
+### 18. Animation & characters · 애니메이션·캐릭터
+
+| # | Effect · 효과 |
+|---|---|
+| 215 | [Skeletal Skinning · 스켈레탈 스키닝](215-skeletal-skinning.md) |
+| 216 | [Morph Targets · 모프 타깃](216-morph-targets.md) |
+| 217 | [Procedural Walk · 절차적 보행](217-procedural-walk.md) |
+| 218 | [Crowd Simulation · 군중 시뮬레이션](218-crowd-simulation.md) |
+| 219 | [GPU Particles · GPU 파티클](219-gpu-particles.md) |
+| 220 | [Gimbal Lock · 짐벌 락](220-gimbal-lock.md) |
+| 221 | [Mesh Deformers · 메시 변형](221-mesh-deformers.md) |
+
+### 19. Camera & lens · 카메라·렌즈
+
+| # | Effect · 효과 |
+|---|---|
+| 222 | [Turntable · 턴테이블](222-turntable.md) |
+| 223 | [Depth of Field · 피사계 심도](223-depth-of-field.md) |
+| 224 | [Motion Blur · 모션 블러](224-motion-blur.md) |
+| 225 | [Tilt-Shift · 틸트 시프트](225-tilt-shift.md) |
+| 226 | [Little Planet · 리틀 플래닛](226-little-planet.md) |
+| 227 | [Perspective ↔ Orthographic · 원근 ↔ 직교](227-perspective-orthographic.md) |
+| 228 | [Anaglyph 3D · 애너글리프 입체](228-anaglyph-3d.md) |
+| 229 | [Bullet Time · 불릿 타임](229-bullet-time.md) |
+| 230 | [Camera Rail · 카메라 레일](230-camera-rail.md) |
+
+### 20. Rendering & stylization · 렌더링·스타일화
+
+| # | Effect · 효과 |
+|---|---|
+| 231 | [HDR Tone Mapping · HDR 톤 매핑](231-tone-mapping.md) |
+| 232 | [Bloom · 블룸](232-bloom.md) |
+| 233 | [G-Buffer · G-버퍼](233-g-buffer.md) |
+| 234 | [Rasterization · 래스터화](234-rasterization.md) |
+| 235 | [3D Pixel Art · 3D 픽셀 아트](235-pixel-art-3d.md) |
+| 236 | [Hatching · 해칭](236-hatching.md) |
+| 237 | [Gooch Shading · 구치 셰이딩](237-gooch-shading.md) |
+| 238 | [Painterly · 페인터리](238-painterly-kuwahara.md) |
+| 239 | [Blueprint · 블루프린트](239-blueprint.md) |

@@ -1,7 +1,7 @@
 {
   "name": "motion-effects",
   "version": "1.0.0",
-  "description": "137 motion effects as 5-second vertical videos, each drawn by one small code file (Canvas 2D, WebGL shaders or three.js) and rendered frame by frame in headless Chrome.",
+  "description": "137 motion effects and 102 3D graphics techniques as 5-second vertical videos, each drawn by one small code file (Canvas 2D, WebGL shaders or three.js) and rendered frame by frame in headless Chrome.",
   "type": "module",
   "private": true,
   "license": "MIT",
