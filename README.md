@@ -1,16 +1,16 @@
-<h1 align="center">Motion Effects 239</h1>
+<h1 align="center">Motion Effects 278</h1>
 
 <p align="center">
-<b>137 motion effects and 102 3D graphics techniques, one code file each, rendered to 5-second vertical videos, with a ready-to-paste prompt for every one.</b><br>
-<b>모션 효과 137가지와 3D 그래픽 기법 102가지. 하나마다 코드 파일 하나, 5초 세로 영상, 바로 붙여 넣는 프롬프트.</b>
+<b>278 motion effects and design techniques (137 motion effects, 102 3D graphics techniques and 39 more), one code file each, rendered to 5-second vertical videos, with a ready-to-paste prompt for every one.</b><br>
+<b>모션 효과와 디자인 기법 278가지(모션 효과 137, 3D 그래픽 기법 102, 그 밖의 기법 39). 하나마다 코드 파일 하나, 5초 세로 영상, 바로 붙여 넣는 프롬프트.</b>
 </p>
 
 <p align="center">
-<img src="previews/001-liquid-motion.webp" width="130" alt="Liquid Motion"> <img src="previews/002-holographic.webp" width="130" alt="Holographic"> <img src="previews/060-reaction-diffusion.webp" width="130" alt="Reaction-Diffusion"> <img src="previews/145-global-illumination.webp" width="130" alt="Global Illumination"> <img src="previews/176-gravitational-lensing.webp" width="130" alt="Gravitational Lensing"> <img src="previews/206-mandelbulb.webp" width="130" alt="Mandelbulb">
+<img src="previews/001-liquid-motion.webp" width="130" alt="Liquid Motion"> <img src="previews/243-ukiyo-e.webp" width="130" alt="Ukiyo-e"> <img src="previews/060-reaction-diffusion.webp" width="130" alt="Reaction-Diffusion"> <img src="previews/145-global-illumination.webp" width="130" alt="Global Illumination"> <img src="previews/176-gravitational-lensing.webp" width="130" alt="Gravitational Lensing"> <img src="previews/206-mandelbulb.webp" width="130" alt="Mandelbulb">
 </p>
 
 <p align="center">
-<a href="https://sueun-dev.github.io/motion-effects/"><b>▶ Watch all 239 · 239개 영상 보기</b></a><br>
+<a href="https://sueun-dev.github.io/motion-effects/"><b>▶ Watch all 278 · 278개 영상 보기</b></a><br>
 <a href="#english">English</a> · <a href="#한국어">한국어</a> · <a href="#gallery--갤러리">Gallery · 갤러리</a> · <a href="prompts/README.md">Prompts · 프롬프트</a> · <a href="EFFECTS.md">List · 목록</a>
 </p>
 
@@ -20,11 +20,11 @@
 
 ### What's here
 
-- **239 effects in 20 categories**. Categories 1–9 are 137 motion effects: design styles, print & retro, typography, shaders & generative, particles, 3D, animation principles, UI & interaction, and transitions. Categories 10–20 are 102 3D graphics techniques (138–239): lighting & shadows, materials & surface detail, reflection, refraction & ray tracing, atmosphere & volumes, geometry & modeling, simulation & physics, nature & procedural worlds, raymarching & fractals, animation & characters, camera & lens, and rendering & stylization. ★ marks the 20 effects from a popular Instagram reel by [@aewon.studio](https://www.instagram.com/aewon.studio/); the other 117 motion effects extend it to the motion styles people actually use, and the 3D set covers the techniques of real-time and offline 3D graphics, each shown so you can see the technique at work. An effect known under several names is one entry, with the other names in the list.
+- **278 effects in 26 categories**. Categories 1–9 are 137 motion effects: design styles, print & retro, typography, shaders & generative, particles, 3D, animation principles, UI & interaction, and transitions. Categories 10–20 are 102 3D graphics techniques (138–239): lighting & shadows, materials & surface detail, reflection, refraction & ray tracing, atmosphere & volumes, geometry & modeling, simulation & physics, nature & procedural worlds, raymarching & fractals, animation & characters, camera & lens, and rendering & stylization. Categories 21–26 are 39 more techniques (240–278): art movements & styles, generative math, film & animation craft, physics & characters, spatial illusions, and AI-era techniques. ★ marks the 20 effects from a popular Instagram reel by [@aewon.studio](https://www.instagram.com/aewon.studio/); the other 117 motion effects extend it to the motion styles people actually use, the 3D set covers the techniques of real-time and offline 3D graphics, and the last set adds art movements, generative math, film craft, physics, spatial illusions and AI-era looks, each shown so you can see the technique at work. An effect known under several names is one entry, with the other names in the list.
 - **A video for every effect**: `videos/NNN-slug.mp4`, 1080 × 1920, 30 fps, exactly 5 seconds, H.264, looping seamlessly. Watch them all playing on the [gallery page](https://sueun-dev.github.io/motion-effects/).
 - **The code for every effect**: `effects/NNN-slug.js`, one small file each (Canvas 2D, a WebGL2 fragment shader, or three.js).
 - **A prompt for every effect**: `prompts/NNN-slug.md`, in English and Korean. Paste it into an AI coding assistant and you get a standalone HTML version of that effect.
-- `contact-sheet.jpg`: all 239 on one page.
+- `contact-sheet.jpg`: all 278 on one page.
 
 ### Quick start
 
@@ -34,7 +34,7 @@ cd motion-effects
 npm install                    # three.js and an ffmpeg build (ffmpeg-static)
 npm run render -- 010          # one effect -> videos/010-grainy-gradient.mp4
 npm run render -- 031-046      # a range of numbers
-npm run render -- --jobs 4     # all 239
+npm run render -- --jobs 4     # all 278
 npm run sheet                  # contact-sheet.jpg
 ```
 
@@ -83,10 +83,10 @@ Each `prompts/NNN-slug.md` has the preview, a one-line description in English an
 
 | Path | What |
 |---|---|
-| `effects/` | the 239 effect files |
-| `videos/` | the 239 videos (mp4) |
+| `effects/` | the 278 effect files |
+| `videos/` | the 278 videos (mp4) |
 | `previews/` | 240 px animated previews (WebP) for this page |
-| `prompts/` | the 239 prompts and their index |
+| `prompts/` | the 278 prompts and their index |
 | `lib/` | shared helpers |
 | `render.mjs`, `runner.js`, `render.html` | the renderer |
 | `index.html` | the gallery page ([sueun-dev.github.io/motion-effects](https://sueun-dev.github.io/motion-effects/)) |
@@ -103,11 +103,11 @@ MIT, for the code, the videos and the prompts. three.js (MIT) and ffmpeg-static 
 
 ### 들어 있는 것
 
-- **20개 분야, 239가지 효과**. 1~9 분야는 모션 효과 137가지: 디자인 스타일, 인쇄·레트로, 타이포그래피, 셰이더·제너러티브, 파티클, 3D, 애니메이션 원리, UI·인터랙션, 트랜지션. 10~20 분야는 3D 그래픽 기법 102가지(138~239): 조명·그림자, 재질·표면, 반사·굴절·레이 트레이싱, 대기·볼륨, 지오메트리·모델링, 시뮬레이션·물리, 자연·절차적 세계, 레이마칭·프랙털, 애니메이션·캐릭터, 카메라·렌즈, 렌더링·스타일화. ★는 [@aewon.studio](https://www.instagram.com/aewon.studio/)의 인스타 릴스에 나온 20가지이고, 나머지 모션 효과 117가지는 실제로 많이 쓰이는 모션 스타일로 넓힌 것이고, 3D 기법은 실시간·오프라인 3D 그래픽의 기법들을 그 기법이 눈에 보이도록 하나씩 보여 준다. 이름만 다르고 같은 효과는 한 항목으로 합치고 다른 이름은 목록에 적었다.
+- **26개 분야, 278가지 효과**. 1~9 분야는 모션 효과 137가지: 디자인 스타일, 인쇄·레트로, 타이포그래피, 셰이더·제너러티브, 파티클, 3D, 애니메이션 원리, UI·인터랙션, 트랜지션. 10~20 분야는 3D 그래픽 기법 102가지(138~239): 조명·그림자, 재질·표면, 반사·굴절·레이 트레이싱, 대기·볼륨, 지오메트리·모델링, 시뮬레이션·물리, 자연·절차적 세계, 레이마칭·프랙털, 애니메이션·캐릭터, 카메라·렌즈, 렌더링·스타일화. 21~26 분야는 기법 39가지 더(240~278): 예술 사조·스타일, 제너러티브 수학, 영상·애니메이션 기법, 물리·캐릭터, 공간 착시, AI 시대 기법. ★는 [@aewon.studio](https://www.instagram.com/aewon.studio/)의 인스타 릴스에 나온 20가지이고, 나머지 모션 효과 117가지는 실제로 많이 쓰이는 모션 스타일로 넓힌 것이고, 3D 기법은 실시간·오프라인 3D 그래픽의 기법들을, 마지막 세트는 예술 사조·제너러티브 수학·영상 기법·물리·공간 착시·AI 시대 룩을 그 기법이 눈에 보이도록 하나씩 보여 준다. 이름만 다르고 같은 효과는 한 항목으로 합치고 다른 이름은 목록에 적었다.
 - **효과마다 영상**: `videos/NNN-slug.mp4`, 1080 × 1920, 30fps, 정확히 5초, H.264, 끊김 없이 반복. [갤러리 페이지](https://sueun-dev.github.io/motion-effects/)에서 전부 재생해 볼 수 있다.
 - **효과마다 코드**: `effects/NNN-slug.js`, 작은 파일 하나씩(Canvas 2D, WebGL2 프래그먼트 셰이더, three.js 중 하나).
 - **효과마다 프롬프트**: `prompts/NNN-slug.md`, 영어와 한국어. AI 코딩 도구에 붙여 넣으면 그 효과를 HTML 파일 하나로 만들어 준다.
-- `contact-sheet.jpg`: 239개를 한 장에.
+- `contact-sheet.jpg`: 278개를 한 장에.
 
 ### 바로 시작
 
@@ -117,7 +117,7 @@ cd motion-effects
 npm install                    # three.js와 ffmpeg(ffmpeg-static)
 npm run render -- 010          # 효과 하나 -> videos/010-grainy-gradient.mp4
 npm run render -- 031-046      # 번호 범위
-npm run render -- --jobs 4     # 239개 전부
+npm run render -- --jobs 4     # 278개 전부
 npm run sheet                  # contact-sheet.jpg
 ```
 
@@ -166,10 +166,10 @@ export default { name: 'Isometric', ko: '아이소메트릭', three(renderer, W,
 
 | 경로 | 내용 |
 |---|---|
-| `effects/` | 효과 파일 239개 |
-| `videos/` | 영상 239개(mp4) |
+| `effects/` | 효과 파일 278개 |
+| `videos/` | 영상 278개(mp4) |
 | `previews/` | 이 페이지용 240px 움직이는 미리보기(WebP) |
-| `prompts/` | 프롬프트 239개와 목록 |
+| `prompts/` | 프롬프트 278개와 목록 |
 | `lib/` | 공통 도우미 |
 | `render.mjs`, `runner.js`, `render.html` | 렌더러 |
 | `index.html` | 갤러리 페이지([sueun-dev.github.io/motion-effects](https://sueun-dev.github.io/motion-effects/)) |
@@ -184,7 +184,7 @@ MIT(코드, 영상, 프롬프트 모두). three.js(MIT)와 ffmpeg-static(ffmpeg�
 
 ## Gallery · 갤러리
 
-All 239 at a glance · 239개 한눈에 보기: [contact-sheet.jpg](contact-sheet.jpg)
+All 278 at a glance · 278개 한눈에 보기: [contact-sheet.jpg](contact-sheet.jpg)
 
 Each row: preview, number and name (English · 한국어), description in English then Korean, and links to the video, the prompt and the code.
 행마다 미리보기, 번호와 이름(영어 · 한국어), 영어 설명과 한국어 설명, 영상·프롬프트·코드 링크.
@@ -527,3 +527,72 @@ Each row: preview, number and name (English · 한국어), description in Englis
 | <img src="previews/237-gooch-shading.webp" width="120" alt="Gooch Shading"> | **237 · Gooch Shading** · 구치 셰이딩<br>A brass and steel gear train on an upright bracket is shaded from cool blue to warm yellow with black outlines and crease lines, like a technical manual.<br>세워진 브래킷 위 황동·강철 기어 한 쌍을 차가운 파랑에서 따뜻한 노랑으로 칠하고, 검은 외곽선과 모서리 선을 더해 기술 설명서처럼 그린다.<br><sub>Also known as · 다른 이름: Warm-Cool Shading</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/237-gooch-shading.mp4) · [Prompt](prompts/237-gooch-shading.md) · [Code](effects/237-gooch-shading.js) |
 | <img src="previews/238-painterly-kuwahara.webp" width="120" alt="Painterly"> | **238 · Painterly** · 페인터리<br>A lamp-lit still life of a jug, wine bottle, apples, lemons and grapes on a red cloth is repainted by an anisotropic Kuwahara filter into oil-paint dabs.<br>빨간 천 위 주전자·와인병·사과·레몬·포도의 정물을 램프로 비추고, 이방성 쿠와하라 필터가 이를 유화 붓자국으로 다시 칠한다.<br><sub>Also known as · 다른 이름: Kuwahara Filter, Oil-Paint Filter</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/238-painterly-kuwahara.mp4) · [Prompt](prompts/238-painterly-kuwahara.md) · [Code](effects/238-painterly-kuwahara.js) |
 | <img src="previews/239-blueprint.webp" width="120" alt="Blueprint"> | **239 · Blueprint** · 블루프린트<br>A flanged bearing housing turns on blueprint paper as a technical drawing: white visible edges, dashed hidden edges, a title block and a fixed top view.<br>플랜지 베어링 하우징이 청사진 종이 위 기술 도면으로 돈다: 흰 실선은 보이는 모서리, 점선은 숨은 모서리, 그리고 표제란과 고정된 평면도.<br><sub>Also known as · 다른 이름: Hidden-Line Drawing</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/239-blueprint.mp4) · [Prompt](prompts/239-blueprint.md) · [Code](effects/239-blueprint.js) |
+
+### 21. Art movements & styles · 예술 사조·스타일 (240–246)
+
+| Preview | Effect · 효과 |
+|:---:|---|
+| <img src="previews/240-art-deco.webp" width="120" alt="Art Deco"> | **240 · Art Deco** · 아르데코<br>Gold-on-black Art Deco poster: a stepped skyscraper telescopes up, a sunburst fans open, ART DECO rises letter by letter and a gleam sweeps the gold.<br>검정 바탕의 금빛 아르데코 포스터: 계단식 마천루가 한 단씩 솟아오르고 햇살 부채가 펼쳐지며, ART DECO 글자가 한 자씩 올라온 뒤 금박 위로 광택이 지나간다.<br>[Video](https://sueun-dev.github.io/motion-effects/videos/240-art-deco.mp4) · [Prompt](prompts/240-art-deco.md) · [Code](effects/240-art-deco.js) |
+| <img src="previews/241-art-nouveau.webp" width="120" alt="Art Nouveau"> | **241 · Art Nouveau** · 아르누보<br>Whiplash vines grow up a Mucha-style cream arch, curl into spirals and sprout leaves and dusty-rose blossoms while a tall lily opens in a gold halo.<br>무하풍 크림색 아치를 따라 채찍처럼 휘는 덩굴이 자라 소용돌이로 말리고 잎과 장밋빛 꽃을 틔우며, 금빛 후광 속에서 키 큰 백합이 피어난다.<br><sub>Also known as · 다른 이름: Jugendstil, Mucha Style</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/241-art-nouveau.mp4) · [Prompt](prompts/241-art-nouveau.md) · [Code](effects/241-art-nouveau.js) |
+| <img src="previews/242-constructivism.webp" width="120" alt="Constructivism"> | **242 · Constructivism** · 구성주의<br>Red, black and cream pieces slam onto a 26° diagonal: a slogan band, a red wedge into a black circle, a halftone factory and a megaphone, then fly out.<br>빨강·검정·크림 조각들이 26° 대각선 위로 쾅쾅 박힌다: 구호 띠, 검은 원을 찌르는 붉은 쐐기, 망점 공장 사진, 확성기. 그리고 왔던 길로 날아간다.<br><sub>Also known as · 다른 이름: Russian Constructivism, Soviet Avant-garde</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/242-constructivism.mp4) · [Prompt](prompts/242-constructivism.md) · [Code](effects/242-constructivism.js) |
+| <img src="previews/243-ukiyo-e.webp" width="120" alt="Ukiyo-e"> | **243 · Ukiyo-e** · 우키요에<br>A Prussian-blue woodblock wave curls over a snowy peak, foam claws flexing and spray falling like snow, as boats ride the swell on fixed wood-grain paper.<br>프러시안 블루 목판화 파도가 눈 덮인 산 위로 말려들고, 거품 발톱이 꿈틀대며 물보라가 눈처럼 떨어지는 사이 배들이 너울을 탄다. 나뭇결 종이는 고정.<br><sub>Also known as · 다른 이름: Japanese Woodblock Print</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/243-ukiyo-e.mp4) · [Prompt](prompts/243-ukiyo-e.md) · [Code](effects/243-ukiyo-e.js) |
+| <img src="previews/244-grunge.webp" width="120" alt="Grunge"> | **244 · Grunge** · 그런지<br>A photocopied gig poster: label strips slide in, duct tape peels so a xeroxed cassette swings down, a NOISE strip slides over its red misprint, ink splats.<br>복사기로 뽑은 공연 포스터: 라벨 띠가 미끄러져 들어오고, 덕트 테이프가 벗겨지며 복사된 카세트가 아래로 흔들리고, NOISE 띠가 빨간 어긋난 인쇄 위를 밀리고, 잉크가 튄다.<br><sub>Also known as · 다른 이름: Photocopy Zine, Xerox Zine</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/244-grunge.mp4) · [Prompt](prompts/244-grunge.md) · [Code](effects/244-grunge.js) |
+| <img src="previews/245-collage.webp" width="120" alt="Collage"> | **245 · Collage** · 콜라주<br>Paper scraps land on a kraft scrapbook page (a torn photo, a Polaroid, stamps, a ticket, washi tape, ransom letters COLLAGE) and are swept off as new ones land.<br>크라프트 스크랩북 페이지에 찢긴 사진, 폴라로이드, 우표, 입장권, 마스킹 테이프, COLLAGE 오린 글자가 내려앉고, 새 조각이 올 때 옛 조각은 쓸려 나간다.<br><sub>Also known as · 다른 이름: Scrapbook, Ransom-note Type</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/245-collage.mp4) · [Prompt](prompts/245-collage.md) · [Code](effects/245-collage.js) |
+| <img src="previews/246-kawaii.webp" width="120" alt="Kawaii"> | **246 · Kawaii** · 카와이<br>Flat pastel food and sky stickers with dot eyes and pink cheeks bounce with squash and stretch, blush, squeeze into happy smiles and sparkle.<br>점 눈과 분홍 볼의 납작한 파스텔 음식·하늘 스티커들이 찌그러졌다 늘어나며 통통 튀고, 볼을 붉히고, 눈웃음을 짓고, 반짝인다.<br><sub>Also known as · 다른 이름: Japanese Cute</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/246-kawaii.mp4) · [Prompt](prompts/246-kawaii.md) · [Code](effects/246-kawaii.js) |
+
+### 22. Generative math · 제너러티브 수학 (247–258)
+
+| Preview | Effect · 효과 |
+|:---:|---|
+| <img src="previews/247-game-of-life.webp" width="120" alt="Game of Life"> | **247 · Game of Life** · 라이프 게임<br>On a 54 × 76 torus a Gosper gun fires gliders that wrap round the edge into an eater; cells glow up when born and fade slowly, so pulsars breathe.<br>54 × 76 토러스에서 고스퍼 총이 쏜 글라이더가 가장자리를 넘어 돌아와 이터에게 먹히고, 세포는 태어나며 밝아지고 천천히 사그라들어 펄서가 숨 쉬듯 빛난다.<br><sub>Also known as · 다른 이름: Conway's Life, Cellular Automaton</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/247-game-of-life.mp4) · [Prompt](prompts/247-game-of-life.md) · [Code](effects/247-game-of-life.js) |
+| <img src="previews/248-dla.webp" width="120" alt="Diffusion-Limited Aggregation"> | **248 · Diffusion-Limited Aggregation** · 확산 응집<br>Coral-pink branches grow up from a seabed as wandering particles stick to their tips one by one, the growth front glowing, then fade back to seedlings.<br>떠돌던 입자가 끝에 하나씩 달라붙으며 바닥에서 산호빛 가지가 자라 오르고, 자라는 끝이 빛나다가 다시 새싹만 남는다.<br><sub>Also known as · 다른 이름: Brownian Tree</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/248-dla.mp4) · [Prompt](prompts/248-dla.md) · [Code](effects/248-dla.js) |
+| <img src="previews/249-differential-growth.webp" width="120" alt="Differential Growth"> | **249 · Differential Growth** · 차등 성장<br>A glowing rainbow ring of nodes keeps growing longer, buckles and folds into a dense brain-coral maze, then dissolves back into the small ring.<br>무지갯빛으로 빛나는 고리가 계속 길어지며 구부러지고 접혀 뇌산호 같은 빽빽한 미로가 된 뒤, 다시 작은 고리로 녹아든다.<br>[Video](https://sueun-dev.github.io/motion-effects/videos/249-differential-growth.mp4) · [Prompt](prompts/249-differential-growth.md) · [Code](effects/249-differential-growth.js) |
+| <img src="previews/250-physarum.webp" width="120" alt="Physarum"> | **250 · Physarum** · 점균<br>Slime-mould agents sniff and follow each other's trails, so a fine glowing mesh coarsens into thick blue veins and relaxes back, agents streaming along.<br>점균 에이전트들이 서로 남긴 흔적을 맡고 따라가며, 빛나는 촘촘한 그물이 굵은 푸른 관으로 뭉쳤다가 다시 풀리고, 그 위로 에이전트가 흐른다.<br><sub>Also known as · 다른 이름: Slime Mould Simulation</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/250-physarum.mp4) · [Prompt](prompts/250-physarum.md) · [Code](effects/250-physarum.js) |
+| <img src="previews/251-lorenz-attractor.webp" width="120" alt="Lorenz Attractor"> | **251 · Lorenz Attractor** · 로렌츠 끌개<br>Hundreds of glowing particles race round the two wings of the Lorenz butterfly with fading tails as the camera circles it, its equations printed below.<br>빛나는 입자 수백 개가 꼬리를 끌며 로렌츠 나비의 두 날개를 돌고, 카메라가 그 둘레를 돌며, 아래에 방정식이 적혀 있다.<br><sub>Also known as · 다른 이름: Strange Attractor</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/251-lorenz-attractor.mp4) · [Prompt](prompts/251-lorenz-attractor.md) · [Code](effects/251-lorenz-attractor.js) |
+| <img src="previews/252-fractal-flame.webp" width="120" alt="Fractal Flame"> | **252 · Fractal Flame** · 프랙탈 플레임<br>An ember, violet and blue fractal flame swirls in two-fold symmetry, its smoky veils and glowing arcs slowly morphing as its transforms drift.<br>불씨빛·보랏빛·푸른 프랙탈 플레임이 2겹 대칭으로 소용돌이치고, 변환이 천천히 바뀌면서 연기 같은 베일과 빛나는 호가 부드럽게 모양을 바꾼다.<br><sub>Also known as · 다른 이름: Flam3, Electric Sheep</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/252-fractal-flame.mp4) · [Prompt](prompts/252-fractal-flame.md) · [Code](effects/252-fractal-flame.js) |
+| <img src="previews/253-penrose-tiling.webp" width="120" alt="Penrose Tiling"> | **253 · Penrose Tiling** · 펜로즈 타일링<br>Gold, coral and teal Penrose rhombi split into smaller rhombi in waves from the centre, twice, then merge back, a gold flash marking every new edge.<br>금색·산호색·청록 펜로즈 마름모가 중심에서 퍼지는 물결을 따라 두 번 더 작은 마름모로 쪼개졌다가 다시 합쳐지고, 새 변마다 금빛이 번쩍인다.<br><sub>Also known as · 다른 이름: P3 Rhombus Tiling</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/253-penrose-tiling.mp4) · [Prompt](prompts/253-penrose-tiling.md) · [Code](effects/253-penrose-tiling.js) |
+| <img src="previews/254-islamic-pattern.webp" width="120" alt="Islamic Geometric Pattern"> | **254 · Islamic Geometric Pattern** · 이슬람 기하 문양<br>Rays sprout from a compass-and-grid construction and weave into interlaced ivory strapwork, then eight-pointed stars glaze in lapis, saffron and terracotta.<br>컴퍼스 원과 격자 작도에서 선이 뻗어 나와 서로 엮인 상아색 띠 장식이 되고, 팔각별과 조각들이 청금석·사프란·테라코타 유약으로 채워진다.<br><sub>Also known as · 다른 이름: Girih, Hankin's Method</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/254-islamic-pattern.mp4) · [Prompt](prompts/254-islamic-pattern.md) · [Code](effects/254-islamic-pattern.js) |
+| <img src="previews/255-hyperbolic-tiling.webp" width="120" alt="Hyperbolic Tiling"> | **255 · Hyperbolic Tiling** · 쌍곡 타일링<br>Pentagons holding gold and red stars tile a Poincaré disk, four at every corner, shrinking toward the rim and flowing from one edge to the other.<br>금색·주홍 별을 품은 오각형이 꼭짓점마다 넷씩 모여 푸앵카레 원판을 채우고, 가장자리로 갈수록 작아지며 한쪽 끝에서 반대쪽으로 흘러간다.<br><sub>Also known as · 다른 이름: Poincaré Disk, Circle Limit</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/255-hyperbolic-tiling.mp4) · [Prompt](prompts/255-hyperbolic-tiling.md) · [Code](effects/255-hyperbolic-tiling.js) |
+| <img src="previews/256-hilbert-curve.webp" width="120" alt="Hilbert Curve"> | **256 · Hilbert Curve** · 힐베르트 곡선<br>A rainbow Hilbert curve unfolds order by order from a simple arch to one line through 4,096 cells, its colours flowing along it, then folds back.<br>무지개색 힐베르트 곡선이 단순한 아치에서 4,096칸을 지나는 한 줄로 한 차수씩 펼쳐지고, 색이 선을 따라 흐르다가 다시 접힌다.<br><sub>Also known as · 다른 이름: Space-Filling Curve</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/256-hilbert-curve.mp4) · [Prompt](prompts/256-hilbert-curve.md) · [Code](effects/256-hilbert-curve.js) |
+| <img src="previews/257-tsp-art.webp" width="120" alt="TSP Art"> | **257 · TSP Art** · TSP 한붓그리기<br>An apple stippled in 14,000 coral dots is drawn as one closed line that never crosses itself, a coral tail leading the pen, then turns back into dots.<br>산호색 점 14,000개로 찍은 사과를 한 번도 교차하지 않는 닫힌 한 줄이 산호색 꼬리를 앞세워 이어 그리고, 다시 점으로 돌아간다.<br><sub>Also known as · 다른 이름: Single-Line Drawing</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/257-tsp-art.mp4) · [Prompt](prompts/257-tsp-art.md) · [Code](effects/257-tsp-art.js) |
+| <img src="previews/258-string-art.webp" width="120" alt="String Art"> | **258 · String Art** · 스트링 아트<br>On a dark walnut board, threads are wound one by one from nail i to nail 2i of 200 brass nails, and the straight threads glow into a heart-shaped cardioid.<br>어두운 호두나무 판의 황동 못 200개에 실이 i번 못에서 2i번 못으로 하나씩 감기고, 곧은 실들이 모여 하트 모양 카디오이드로 빛난다.<br><sub>Also known as · 다른 이름: Curve Stitching, Times Table</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/258-string-art.mp4) · [Prompt](prompts/258-string-art.md) · [Code](effects/258-string-art.js) |
+
+### 23. Film & animation craft · 영상·애니메이션 기법 (259–264)
+
+| Preview | Effect · 효과 |
+|:---:|---|
+| <img src="previews/259-rotoscoping.webp" width="120" alt="Rotoscoping"> | **259 · Rotoscoping** · 로토스코핑<br>A dancer filmed in a warm studio and the same dancer traced as flat cels with ink outlines on paper; a wipe slides across and the two line up exactly.<br>따뜻한 스튜디오에서 춤추는 사람과, 그 사람을 종이 위에 잉크 윤곽선과 납작한 색으로 따라 그린 셀이 와이프로 오가며 정확히 겹친다.<br>[Video](https://sueun-dev.github.io/motion-effects/videos/259-rotoscoping.mp4) · [Prompt](prompts/259-rotoscoping.md) · [Code](effects/259-rotoscoping.js) |
+| <img src="previews/260-stop-motion.webp" width="120" alt="Stop Motion"> | **260 · Stop Motion** · 스톱모션<br>A felt robin puppet hops across a felt-and-cardboard tabletop set, pecks and turns round, every pose held for exactly two frames, as in real stop motion.<br>펠트 울새 인형이 펠트와 판지로 만든 탁상 세트를 깡충 건너고 쪼고 돌아서며, 진짜 스톱모션처럼 모든 포즈가 정확히 두 프레임씩 멈춘다.<br><sub>Also known as · 다른 이름: Puppet Animation</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/260-stop-motion.mp4) · [Prompt](prompts/260-stop-motion.md) · [Code](effects/260-stop-motion.js) |
+| <img src="previews/261-match-cut.webp" width="120" alt="Match Cut"> | **261 · Match Cut** · 매치 컷<br>An eye, a camera lens, an eclipse and a donut share one circle in one place; each spins a full turn, blurs into rings and hard-cuts to the next at top speed.<br>눈, 카메라 렌즈, 일식, 도넛이 같은 자리의 같은 원을 나눠 갖고, 한 바퀴 돌며 고리로 번지다 가장 빠른 순간 다음 장면으로 딱 잘린다.<br><sub>Also known as · 다른 이름: Graphic Match</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/261-match-cut.mp4) · [Prompt](prompts/261-match-cut.md) · [Code](effects/261-match-cut.js) |
+| <img src="previews/262-color-grading.webp" width="120" alt="Color Grading"> | **262 · Color Grading** · 색 보정 (LUT)<br>A sunny lighthouse beach is wiped through teal & orange, bleach bypass, film print and day for night, while a 6 × 6 × 6 RGB lattice below warps with each look.<br>햇살 가득한 등대 해변이 틸 앤 오렌지, 블리치 바이패스, 필름 프린트, 데이 포 나이트로 차례로 와이프되고, 아래 6 × 6 × 6 RGB 격자가 룩마다 휜다.<br><sub>Also known as · 다른 이름: LUT, Look</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/262-color-grading.mp4) · [Prompt](prompts/262-color-grading.md) · [Code](effects/262-color-grading.js) |
+| <img src="previews/263-rolling-shutter.webp" width="120" alt="Rolling Shutter"> | **263 · Rolling Shutter** · 롤링 셔터<br>One three-blade propeller twice: a global shutter keeps its blades straight, while a slow read-out line sweeping down bends them into curved bananas.<br>같은 세 날개 프로펠러를 두 번: 글로벌 셔터는 날개를 곧게 담고, 위에서 아래로 천천히 내려가는 판독선은 날개를 바나나처럼 휜 곡선으로 담는다.<br><sub>Also known as · 다른 이름: Jello Effect</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/263-rolling-shutter.mp4) · [Prompt](prompts/263-rolling-shutter.md) · [Code](effects/263-rolling-shutter.js) |
+| <img src="previews/264-ink-wash.webp" width="120" alt="Ink Wash"> | **264 · Ink Wash** · 수묵화 렌더링<br>Stone spires, a pine on a cliff and a fisherman's boat, all built in 3D, are rendered as an ink painting on rice paper while the camera drifts and mist moves.<br>돌기둥 봉우리, 절벽의 소나무, 낚싯배를 3D로 만들어 쌀 종이 위의 수묵화로 그리고, 카메라가 옆으로 흐르는 동안 겹겹의 산이 엇갈리고 안개가 흐른다.<br><sub>Also known as · 다른 이름: Sumi-e</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/264-ink-wash.mp4) · [Prompt](prompts/264-ink-wash.md) · [Code](effects/264-ink-wash.js) |
+
+### 24. Physics & characters · 물리·캐릭터 (265–270)
+
+| Preview | Effect · 효과 |
+|:---:|---|
+| <img src="previews/265-ragdoll.webp" width="120" alt="Ragdoll"> | **265 · Ragdoll** · 래그돌<br>A crash-test dummy of capsules held by joint limits drops onto a staircase, tumbles down twelve steps, lies perfectly still, then a conveyor carries it off.<br>캡슐과 관절 제한으로 만든 충돌 시험 더미가 계단 위로 떨어져 열두 칸을 굴러 내려오고, 완전히 멈춰 누웠다가 컨베이어에 실려 나간다.<br><sub>Also known as · 다른 이름: Ragdoll Physics</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/265-ragdoll.mp4) · [Prompt](prompts/265-ragdoll.md) · [Code](effects/265-ragdoll.js) |
+| <img src="previews/266-vehicle-physics.webp" width="120" alt="Vehicle Physics"> | **266 · Vehicle Physics** · 차량 물리<br>A dune buggy on spring-damper struts drives over whoops, side bumps and a jump; coils squash, the body pitches and rolls, and a dial logs every spring.<br>스프링·댐퍼 서스펜션의 버기가 연속 둔덕, 한쪽 둔덕, 점프대를 지나며 코일이 눌리고 차체가 앞뒤·좌우로 기울며, 다이얼이 바퀴마다 압축을 기록한다.<br><sub>Also known as · 다른 이름: Suspension Simulation</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/266-vehicle-physics.mp4) · [Prompt](prompts/266-vehicle-physics.md) · [Code](effects/266-vehicle-physics.js) |
+| <img src="previews/267-buoyancy.webp" width="120" alt="Buoyancy"> | **267 · Buoyancy** · 부력<br>Cork, pine, ice and stone drop from reels into a glass tank, splash and bob, then float 24 %, 60 % and 92 % under as the stone sinks, and reel back up.<br>코르크·소나무·얼음·돌이 줄에서 풀려 유리 수조에 떨어져 출렁이다가 각각 24 %·60 %·92 % 잠긴 채 멈추고 돌은 가라앉으며, 다시 감겨 올라간다.<br><sub>Also known as · 다른 이름: Archimedes' Principle</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/267-buoyancy.mp4) · [Prompt](prompts/267-buoyancy.md) · [Code](effects/267-buoyancy.js) |
+| <img src="previews/268-motion-matching.webp" width="120" alt="Motion Matching"> | **268 · Motion Matching** · 모션 매칭<br>A runner circles a figure-eight while motion matching compares where the path is heading (orange) with seven clips' trajectories and lights the closest card.<br>달리는 사람이 8자 길을 돌고, 모션 매칭이 길이 향하는 미래 궤적(주황)을 클립 일곱 개의 궤적과 비교해 가장 가까운 클립 카드를 밝힌다.<br>[Video](https://sueun-dev.github.io/motion-effects/videos/268-motion-matching.mp4) · [Prompt](prompts/268-motion-matching.md) · [Code](effects/268-motion-matching.js) |
+| <img src="previews/269-lip-sync.webp" width="120" alt="Lip Sync"> | **269 · Lip Sync** · 립싱크<br>A cartoon face says "Hello there, watch my mouth. Very fun!" as phonemes on a sliding track blend ten viseme mouth shapes, each lit by its weight.<br>만화 얼굴이 "Hello there, watch my mouth. Very fun!"을 말하고, 흘러가는 음소 트랙에 맞춰 열 가지 입 모양(viseme)이 섞이며 가중치만큼 켜진다.<br><sub>Also known as · 다른 이름: Viseme Animation</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/269-lip-sync.mp4) · [Prompt](prompts/269-lip-sync.md) · [Code](effects/269-lip-sync.js) |
+| <img src="previews/270-retargeting.webp" width="120" alt="Retargeting"> | **270 · Retargeting** · 리타기팅<br>One step-touch dance from a glowing source skeleton plays on a tall, a round and a robot body; steps scale with each one's legs and IK pins the feet down.<br>빛나는 원본 골격의 스텝 터치 춤 하나가 키 큰 몸, 둥근 몸, 로봇에 옮겨지고, 다리 길이만큼 보폭이 바뀌며 발은 IK로 바닥에 고정된다.<br><sub>Also known as · 다른 이름: Motion Retargeting</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/270-retargeting.mp4) · [Prompt](prompts/270-retargeting.md) · [Code](effects/270-retargeting.js) |
+
+### 25. Spatial illusions · 공간 착시 (271–275)
+
+| Preview | Effect · 효과 |
+|:---:|---|
+| <img src="previews/271-anamorphic-billboard.webp" width="120" alt="Anamorphic Billboard"> | **271 · Anamorphic Billboard** · 아나모픽 빌보드<br>A pink ring and three spheres float out of a gridded room on a corner LED screen; off the sweet spot the pixels become a flat picture folded round the corner.<br>건물 모서리 LED 화면 속 격자 방에서 분홍 링과 구슬 셋이 거리로 떠오르고, 스위트 스폿을 벗어나면 같은 픽셀이 모서리에 접힌 평면 그림이 된다.<br><sub>Also known as · 다른 이름: 3D Billboard, Forced-Perspective Screen</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/271-anamorphic-billboard.mp4) · [Prompt](prompts/271-anamorphic-billboard.md) · [Code](effects/271-anamorphic-billboard.js) |
+| <img src="previews/272-projection-mapping.webp" width="120" alt="Projection Mapping"> | **272 · Projection Mapping** · 프로젝션 매핑<br>A white neoclassical facade is painted with projected light: outlines trace every edge, windows fill gold, a colour wave floods it, then fake shadows swing.<br>밤의 하얀 신고전주의 건물 정면에 빛을 투사해, 윤곽선이 모서리를 타고 오르고 창이 금빛으로 차오르며 색 물결이 덮인 뒤 가짜 그림자가 빙 돈다.<br><sub>Also known as · 다른 이름: Video Mapping, Spatial AR</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/272-projection-mapping.mp4) · [Prompt](prompts/272-projection-mapping.md) · [Code](effects/272-projection-mapping.js) |
+| <img src="previews/273-lenticular.webp" width="120" alt="Lenticular"> | **273 · Lenticular** · 렌티큘러<br>A ridged lenticular postcard tilts from GOOD MORNING to EVENING to NIGHT; a loupe shows its lens ridges and a cross-section shows the eye picking a strip.<br>볼록 렌즈 줄이 덮인 렌티큘러 엽서가 기울며 GOOD MORNING·EVENING·NIGHT로 바뀌고, 돋보기는 렌즈 줄을, 단면도는 눈이 고르는 띠를 보여 준다.<br><sub>Also known as · 다른 이름: Lenticular Printing, Flip Image</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/273-lenticular.mp4) · [Prompt](prompts/273-lenticular.md) · [Code](effects/273-lenticular.js) |
+| <img src="previews/274-zoetrope.webp" width="120" alt="Zoetrope"> | **274 · Zoetrope** · 조이트로프<br>Thirty bird sculptures on a spinning platter smear into a ring under steady light, then flap their wings as one flock when a 30 Hz strobe matches the spin.<br>돌아가는 원판 위 새 조각 30개가 보통 조명에서는 고리로 번지다가, 회전에 맞춘 30 Hz 스트로브가 켜지면 한 무리가 되어 날갯짓한다.<br><sub>Also known as · 다른 이름: 3D Zoetrope, Strobe Animation</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/274-zoetrope.mp4) · [Prompt](prompts/274-zoetrope.md) · [Code](effects/274-zoetrope.js) |
+| <img src="previews/275-virtual-production.webp" width="120" alt="Virtual Production"> | **275 · Virtual Production** · 버추얼 프로덕션<br>An astronaut stands in an alien desert that is really a curved LED wall; the camera's picture shrinks away to reveal the stage, the rig and its frustum.<br>외계 사막에 선 우주인 뒤 풍경은 사실 휘어진 LED 벽이다. 카메라 화면이 구석으로 줄어들며 무대와 촬영 카메라, 벽 위의 촬영 범위가 드러난다.<br><sub>Also known as · 다른 이름: ICVFX, LED Volume</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/275-virtual-production.mp4) · [Prompt](prompts/275-virtual-production.md) · [Code](effects/275-virtual-production.js) |
+
+### 26. AI-era techniques · AI 시대 기법 (276–278)
+
+| Preview | Effect · 효과 |
+|:---:|---|
+| <img src="previews/276-style-transfer.webp" width="120" alt="Style Transfer"> | **276 · Style Transfer** · 스타일 트랜스퍼<br>A harbour photo is repainted as swirling blue-gold strokes, pointillist dots and leaded stained glass, a soft diagonal wipe sweeping from style to style.<br>항구 사진을 푸른·금빛 소용돌이 붓질, 점묘, 납선 스테인드글라스로 다시 그리고, 부드러운 대각선 와이프가 한 스타일에서 다음 스타일로 넘긴다.<br><sub>Also known as · 다른 이름: Neural Style Transfer, Image Stylization</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/276-style-transfer.mp4) · [Prompt](prompts/276-style-transfer.md) · [Code](effects/276-style-transfer.js) |
+| <img src="previews/277-relighting.webp" width="120" alt="Relighting"> | **277 · Relighting** · 리라이팅<br>A photo of a sleeping marble head is split into albedo and normal maps and re-lit by a coloured light circling it, a divider comparing it with the original.<br>잠든 대리석 두상 사진을 알베도·노멀 맵으로 나누고 둘레를 도는 색 조명으로 다시 비추며, 움직이는 경계선이 원본 사진과 나란히 비교해 보여 준다.<br><sub>Also known as · 다른 이름: Image Relighting, Intrinsic Decomposition</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/277-relighting.mp4) · [Prompt](prompts/277-relighting.md) · [Code](effects/277-relighting.js) |
+| <img src="previews/278-ar-face-filter.webp" width="120" alt="AR Face Filter"> | **278 · AR Face Filter** · AR 얼굴 필터<br>A turning, smiling selfie face carries a tracked 300-point landmark mesh; heart glasses, bunny ears, blush and sparkles pop on and stay stuck to it as it moves.<br>고개를 돌리고 웃는 셀카 얼굴에 300점 랜드마크 메시가 따라붙고, 하트 안경·토끼 귀·볼터치·반짝이가 튀어나와 얼굴에 붙은 채 함께 움직인다.<br><sub>Also known as · 다른 이름: Face Tracking, Face Mesh</sub><br>[Video](https://sueun-dev.github.io/motion-effects/videos/278-ar-face-filter.mp4) · [Prompt](prompts/278-ar-face-filter.md) · [Code](effects/278-ar-face-filter.js) |

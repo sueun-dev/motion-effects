@@ -398,3 +398,72 @@ W = 1080, H = 1920, t는 초 단위(0~5). 제목 라벨은 렌더러가 넣으�
 | 237 | [Gooch Shading · 구치 셰이딩](237-gooch-shading.md) |
 | 238 | [Painterly · 페인터리](238-painterly-kuwahara.md) |
 | 239 | [Blueprint · 블루프린트](239-blueprint.md) |
+
+### 21. Art movements & styles · 예술 사조·스타일
+
+| # | Effect · 효과 |
+|---|---|
+| 240 | [Art Deco · 아르데코](240-art-deco.md) |
+| 241 | [Art Nouveau · 아르누보](241-art-nouveau.md) |
+| 242 | [Constructivism · 구성주의](242-constructivism.md) |
+| 243 | [Ukiyo-e · 우키요에](243-ukiyo-e.md) |
+| 244 | [Grunge · 그런지](244-grunge.md) |
+| 245 | [Collage · 콜라주](245-collage.md) |
+| 246 | [Kawaii · 카와이](246-kawaii.md) |
+
+### 22. Generative math · 제너러티브 수학
+
+| # | Effect · 효과 |
+|---|---|
+| 247 | [Game of Life · 라이프 게임](247-game-of-life.md) |
+| 248 | [Diffusion-Limited Aggregation · 확산 응집](248-dla.md) |
+| 249 | [Differential Growth · 차등 성장](249-differential-growth.md) |
+| 250 | [Physarum · 점균](250-physarum.md) |
+| 251 | [Lorenz Attractor · 로렌츠 끌개](251-lorenz-attractor.md) |
+| 252 | [Fractal Flame · 프랙탈 플레임](252-fractal-flame.md) |
+| 253 | [Penrose Tiling · 펜로즈 타일링](253-penrose-tiling.md) |
+| 254 | [Islamic Geometric Pattern · 이슬람 기하 문양](254-islamic-pattern.md) |
+| 255 | [Hyperbolic Tiling · 쌍곡 타일링](255-hyperbolic-tiling.md) |
+| 256 | [Hilbert Curve · 힐베르트 곡선](256-hilbert-curve.md) |
+| 257 | [TSP Art · TSP 한붓그리기](257-tsp-art.md) |
+| 258 | [String Art · 스트링 아트](258-string-art.md) |
+
+### 23. Film & animation craft · 영상·애니메이션 기법
+
+| # | Effect · 효과 |
+|---|---|
+| 259 | [Rotoscoping · 로토스코핑](259-rotoscoping.md) |
+| 260 | [Stop Motion · 스톱모션](260-stop-motion.md) |
+| 261 | [Match Cut · 매치 컷](261-match-cut.md) |
+| 262 | [Color Grading · 색 보정 (LUT)](262-color-grading.md) |
+| 263 | [Rolling Shutter · 롤링 셔터](263-rolling-shutter.md) |
+| 264 | [Ink Wash · 수묵화 렌더링](264-ink-wash.md) |
+
+### 24. Physics & characters · 물리·캐릭터
+
+| # | Effect · 효과 |
+|---|---|
+| 265 | [Ragdoll · 래그돌](265-ragdoll.md) |
+| 266 | [Vehicle Physics · 차량 물리](266-vehicle-physics.md) |
+| 267 | [Buoyancy · 부력](267-buoyancy.md) |
+| 268 | [Motion Matching · 모션 매칭](268-motion-matching.md) |
+| 269 | [Lip Sync · 립싱크](269-lip-sync.md) |
+| 270 | [Retargeting · 리타기팅](270-retargeting.md) |
+
+### 25. Spatial illusions · 공간 착시
+
+| # | Effect · 효과 |
+|---|---|
+| 271 | [Anamorphic Billboard · 아나모픽 빌보드](271-anamorphic-billboard.md) |
+| 272 | [Projection Mapping · 프로젝션 매핑](272-projection-mapping.md) |
+| 273 | [Lenticular · 렌티큘러](273-lenticular.md) |
+| 274 | [Zoetrope · 조이트로프](274-zoetrope.md) |
+| 275 | [Virtual Production · 버추얼 프로덕션](275-virtual-production.md) |
+
+### 26. AI-era techniques · AI 시대 기법
+
+| # | Effect · 효과 |
+|---|---|
+| 276 | [Style Transfer · 스타일 트랜스퍼](276-style-transfer.md) |
+| 277 | [Relighting · 리라이팅](277-relighting.md) |
+| 278 | [AR Face Filter · AR 얼굴 필터](278-ar-face-filter.md) |

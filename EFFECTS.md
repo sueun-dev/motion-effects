@@ -1,8 +1,8 @@
-# Motion Effects 239 · 모션 효과 239가지
+# Motion Effects 278 · 모션 효과 278가지
 
-The 239 effects in 20 categories: 137 motion effects (1–9) and 102 3D graphics techniques (10–20). ★ = one of the 20 effects from the original reel (its number in brackets). An effect known under several names is one entry; the other names are in the last column. Each effect has a video in `videos/`, a prompt in `prompts/` and its code in `effects/`.
+The 278 effects in 26 categories: 137 motion effects (1–9), 102 3D graphics techniques (10–20) and 39 more techniques (21–26). ★ = one of the 20 effects from the original reel (its number in brackets). An effect known under several names is one entry; the other names are in the last column. Each effect has a video in `videos/`, a prompt in `prompts/` and its code in `effects/`.
 
-20개 분야의 효과 239가지: 모션 효과 137가지(1~9)와 3D 그래픽 기법 102가지(10~20). ★ = 원래 릴스의 20개 중 하나(괄호 안은 릴스 번호). 이름만 다르고 같은 효과는 한 항목으로 합쳤고, 다른 이름은 마지막 칸에 적었다. 효과마다 영상은 `videos/`, 프롬프트는 `prompts/`, 코드는 `effects/`에 있다.
+26개 분야의 효과 278가지: 모션 효과 137가지(1~9), 3D 그래픽 기법 102가지(10~20), 그 밖의 기법 39가지(21~26). ★ = 원래 릴스의 20개 중 하나(괄호 안은 릴스 번호). 이름만 다르고 같은 효과는 한 항목으로 합쳤고, 다른 이름은 마지막 칸에 적었다. 효과마다 영상은 `videos/`, 프롬프트는 `prompts/`, 코드는 `effects/`에 있다.
 
 ## 1. Design styles · 디자인 스타일
 
@@ -342,3 +342,72 @@ The 239 effects in 20 categories: 137 motion effects (1–9) and 102 3D graphics
 | [237](prompts/237-gooch-shading.md) | Gooch Shading | A brass and steel gear train on an upright bracket is shaded from cool blue to warm yellow with black outlines and crease lines, like a technical manual. | 구치 셰이딩 | 세워진 브래킷 위 황동·강철 기어 한 쌍을 차가운 파랑에서 따뜻한 노랑으로 칠하고, 검은 외곽선과 모서리 선을 더해 기술 설명서처럼 그린다. | Warm-Cool Shading |
 | [238](prompts/238-painterly-kuwahara.md) | Painterly | A lamp-lit still life of a jug, wine bottle, apples, lemons and grapes on a red cloth is repainted by an anisotropic Kuwahara filter into oil-paint dabs. | 페인터리 | 빨간 천 위 주전자·와인병·사과·레몬·포도의 정물을 램프로 비추고, 이방성 쿠와하라 필터가 이를 유화 붓자국으로 다시 칠한다. | Kuwahara Filter, Oil-Paint Filter |
 | [239](prompts/239-blueprint.md) | Blueprint | A flanged bearing housing turns on blueprint paper as a technical drawing: white visible edges, dashed hidden edges, a title block and a fixed top view. | 블루프린트 | 플랜지 베어링 하우징이 청사진 종이 위 기술 도면으로 돈다: 흰 실선은 보이는 모서리, 점선은 숨은 모서리, 그리고 표제란과 고정된 평면도. | Hidden-Line Drawing |
+
+## 21. Art movements & styles · 예술 사조·스타일
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [240](prompts/240-art-deco.md) | Art Deco | Gold-on-black Art Deco poster: a stepped skyscraper telescopes up, a sunburst fans open, ART DECO rises letter by letter and a gleam sweeps the gold. | 아르데코 | 검정 바탕의 금빛 아르데코 포스터: 계단식 마천루가 한 단씩 솟아오르고 햇살 부채가 펼쳐지며, ART DECO 글자가 한 자씩 올라온 뒤 금박 위로 광택이 지나간다. |  |
+| [241](prompts/241-art-nouveau.md) | Art Nouveau | Whiplash vines grow up a Mucha-style cream arch, curl into spirals and sprout leaves and dusty-rose blossoms while a tall lily opens in a gold halo. | 아르누보 | 무하풍 크림색 아치를 따라 채찍처럼 휘는 덩굴이 자라 소용돌이로 말리고 잎과 장밋빛 꽃을 틔우며, 금빛 후광 속에서 키 큰 백합이 피어난다. | Jugendstil, Mucha Style |
+| [242](prompts/242-constructivism.md) | Constructivism | Red, black and cream pieces slam onto a 26° diagonal: a slogan band, a red wedge into a black circle, a halftone factory and a megaphone, then fly out. | 구성주의 | 빨강·검정·크림 조각들이 26° 대각선 위로 쾅쾅 박힌다: 구호 띠, 검은 원을 찌르는 붉은 쐐기, 망점 공장 사진, 확성기. 그리고 왔던 길로 날아간다. | Russian Constructivism, Soviet Avant-garde |
+| [243](prompts/243-ukiyo-e.md) | Ukiyo-e | A Prussian-blue woodblock wave curls over a snowy peak, foam claws flexing and spray falling like snow, as boats ride the swell on fixed wood-grain paper. | 우키요에 | 프러시안 블루 목판화 파도가 눈 덮인 산 위로 말려들고, 거품 발톱이 꿈틀대며 물보라가 눈처럼 떨어지는 사이 배들이 너울을 탄다. 나뭇결 종이는 고정. | Japanese Woodblock Print |
+| [244](prompts/244-grunge.md) | Grunge | A photocopied gig poster: label strips slide in, duct tape peels so a xeroxed cassette swings down, a NOISE strip slides over its red misprint, ink splats. | 그런지 | 복사기로 뽑은 공연 포스터: 라벨 띠가 미끄러져 들어오고, 덕트 테이프가 벗겨지며 복사된 카세트가 아래로 흔들리고, NOISE 띠가 빨간 어긋난 인쇄 위를 밀리고, 잉크가 튄다. | Photocopy Zine, Xerox Zine |
+| [245](prompts/245-collage.md) | Collage | Paper scraps land on a kraft scrapbook page (a torn photo, a Polaroid, stamps, a ticket, washi tape, ransom letters COLLAGE) and are swept off as new ones land. | 콜라주 | 크라프트 스크랩북 페이지에 찢긴 사진, 폴라로이드, 우표, 입장권, 마스킹 테이프, COLLAGE 오린 글자가 내려앉고, 새 조각이 올 때 옛 조각은 쓸려 나간다. | Scrapbook, Ransom-note Type |
+| [246](prompts/246-kawaii.md) | Kawaii | Flat pastel food and sky stickers with dot eyes and pink cheeks bounce with squash and stretch, blush, squeeze into happy smiles and sparkle. | 카와이 | 점 눈과 분홍 볼의 납작한 파스텔 음식·하늘 스티커들이 찌그러졌다 늘어나며 통통 튀고, 볼을 붉히고, 눈웃음을 짓고, 반짝인다. | Japanese Cute |
+
+## 22. Generative math · 제너러티브 수학
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [247](prompts/247-game-of-life.md) | Game of Life | On a 54 × 76 torus a Gosper gun fires gliders that wrap round the edge into an eater; cells glow up when born and fade slowly, so pulsars breathe. | 라이프 게임 | 54 × 76 토러스에서 고스퍼 총이 쏜 글라이더가 가장자리를 넘어 돌아와 이터에게 먹히고, 세포는 태어나며 밝아지고 천천히 사그라들어 펄서가 숨 쉬듯 빛난다. | Conway's Life, Cellular Automaton |
+| [248](prompts/248-dla.md) | Diffusion-Limited Aggregation | Coral-pink branches grow up from a seabed as wandering particles stick to their tips one by one, the growth front glowing, then fade back to seedlings. | 확산 응집 | 떠돌던 입자가 끝에 하나씩 달라붙으며 바닥에서 산호빛 가지가 자라 오르고, 자라는 끝이 빛나다가 다시 새싹만 남는다. | Brownian Tree |
+| [249](prompts/249-differential-growth.md) | Differential Growth | A glowing rainbow ring of nodes keeps growing longer, buckles and folds into a dense brain-coral maze, then dissolves back into the small ring. | 차등 성장 | 무지갯빛으로 빛나는 고리가 계속 길어지며 구부러지고 접혀 뇌산호 같은 빽빽한 미로가 된 뒤, 다시 작은 고리로 녹아든다. |  |
+| [250](prompts/250-physarum.md) | Physarum | Slime-mould agents sniff and follow each other's trails, so a fine glowing mesh coarsens into thick blue veins and relaxes back, agents streaming along. | 점균 | 점균 에이전트들이 서로 남긴 흔적을 맡고 따라가며, 빛나는 촘촘한 그물이 굵은 푸른 관으로 뭉쳤다가 다시 풀리고, 그 위로 에이전트가 흐른다. | Slime Mould Simulation |
+| [251](prompts/251-lorenz-attractor.md) | Lorenz Attractor | Hundreds of glowing particles race round the two wings of the Lorenz butterfly with fading tails as the camera circles it, its equations printed below. | 로렌츠 끌개 | 빛나는 입자 수백 개가 꼬리를 끌며 로렌츠 나비의 두 날개를 돌고, 카메라가 그 둘레를 돌며, 아래에 방정식이 적혀 있다. | Strange Attractor |
+| [252](prompts/252-fractal-flame.md) | Fractal Flame | An ember, violet and blue fractal flame swirls in two-fold symmetry, its smoky veils and glowing arcs slowly morphing as its transforms drift. | 프랙탈 플레임 | 불씨빛·보랏빛·푸른 프랙탈 플레임이 2겹 대칭으로 소용돌이치고, 변환이 천천히 바뀌면서 연기 같은 베일과 빛나는 호가 부드럽게 모양을 바꾼다. | Flam3, Electric Sheep |
+| [253](prompts/253-penrose-tiling.md) | Penrose Tiling | Gold, coral and teal Penrose rhombi split into smaller rhombi in waves from the centre, twice, then merge back, a gold flash marking every new edge. | 펜로즈 타일링 | 금색·산호색·청록 펜로즈 마름모가 중심에서 퍼지는 물결을 따라 두 번 더 작은 마름모로 쪼개졌다가 다시 합쳐지고, 새 변마다 금빛이 번쩍인다. | P3 Rhombus Tiling |
+| [254](prompts/254-islamic-pattern.md) | Islamic Geometric Pattern | Rays sprout from a compass-and-grid construction and weave into interlaced ivory strapwork, then eight-pointed stars glaze in lapis, saffron and terracotta. | 이슬람 기하 문양 | 컴퍼스 원과 격자 작도에서 선이 뻗어 나와 서로 엮인 상아색 띠 장식이 되고, 팔각별과 조각들이 청금석·사프란·테라코타 유약으로 채워진다. | Girih, Hankin's Method |
+| [255](prompts/255-hyperbolic-tiling.md) | Hyperbolic Tiling | Pentagons holding gold and red stars tile a Poincaré disk, four at every corner, shrinking toward the rim and flowing from one edge to the other. | 쌍곡 타일링 | 금색·주홍 별을 품은 오각형이 꼭짓점마다 넷씩 모여 푸앵카레 원판을 채우고, 가장자리로 갈수록 작아지며 한쪽 끝에서 반대쪽으로 흘러간다. | Poincaré Disk, Circle Limit |
+| [256](prompts/256-hilbert-curve.md) | Hilbert Curve | A rainbow Hilbert curve unfolds order by order from a simple arch to one line through 4,096 cells, its colours flowing along it, then folds back. | 힐베르트 곡선 | 무지개색 힐베르트 곡선이 단순한 아치에서 4,096칸을 지나는 한 줄로 한 차수씩 펼쳐지고, 색이 선을 따라 흐르다가 다시 접힌다. | Space-Filling Curve |
+| [257](prompts/257-tsp-art.md) | TSP Art | An apple stippled in 14,000 coral dots is drawn as one closed line that never crosses itself, a coral tail leading the pen, then turns back into dots. | TSP 한붓그리기 | 산호색 점 14,000개로 찍은 사과를 한 번도 교차하지 않는 닫힌 한 줄이 산호색 꼬리를 앞세워 이어 그리고, 다시 점으로 돌아간다. | Single-Line Drawing |
+| [258](prompts/258-string-art.md) | String Art | On a dark walnut board, threads are wound one by one from nail i to nail 2i of 200 brass nails, and the straight threads glow into a heart-shaped cardioid. | 스트링 아트 | 어두운 호두나무 판의 황동 못 200개에 실이 i번 못에서 2i번 못으로 하나씩 감기고, 곧은 실들이 모여 하트 모양 카디오이드로 빛난다. | Curve Stitching, Times Table |
+
+## 23. Film & animation craft · 영상·애니메이션 기법
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [259](prompts/259-rotoscoping.md) | Rotoscoping | A dancer filmed in a warm studio and the same dancer traced as flat cels with ink outlines on paper; a wipe slides across and the two line up exactly. | 로토스코핑 | 따뜻한 스튜디오에서 춤추는 사람과, 그 사람을 종이 위에 잉크 윤곽선과 납작한 색으로 따라 그린 셀이 와이프로 오가며 정확히 겹친다. |  |
+| [260](prompts/260-stop-motion.md) | Stop Motion | A felt robin puppet hops across a felt-and-cardboard tabletop set, pecks and turns round, every pose held for exactly two frames, as in real stop motion. | 스톱모션 | 펠트 울새 인형이 펠트와 판지로 만든 탁상 세트를 깡충 건너고 쪼고 돌아서며, 진짜 스톱모션처럼 모든 포즈가 정확히 두 프레임씩 멈춘다. | Puppet Animation |
+| [261](prompts/261-match-cut.md) | Match Cut | An eye, a camera lens, an eclipse and a donut share one circle in one place; each spins a full turn, blurs into rings and hard-cuts to the next at top speed. | 매치 컷 | 눈, 카메라 렌즈, 일식, 도넛이 같은 자리의 같은 원을 나눠 갖고, 한 바퀴 돌며 고리로 번지다 가장 빠른 순간 다음 장면으로 딱 잘린다. | Graphic Match |
+| [262](prompts/262-color-grading.md) | Color Grading | A sunny lighthouse beach is wiped through teal & orange, bleach bypass, film print and day for night, while a 6 × 6 × 6 RGB lattice below warps with each look. | 색 보정 (LUT) | 햇살 가득한 등대 해변이 틸 앤 오렌지, 블리치 바이패스, 필름 프린트, 데이 포 나이트로 차례로 와이프되고, 아래 6 × 6 × 6 RGB 격자가 룩마다 휜다. | LUT, Look |
+| [263](prompts/263-rolling-shutter.md) | Rolling Shutter | One three-blade propeller twice: a global shutter keeps its blades straight, while a slow read-out line sweeping down bends them into curved bananas. | 롤링 셔터 | 같은 세 날개 프로펠러를 두 번: 글로벌 셔터는 날개를 곧게 담고, 위에서 아래로 천천히 내려가는 판독선은 날개를 바나나처럼 휜 곡선으로 담는다. | Jello Effect |
+| [264](prompts/264-ink-wash.md) | Ink Wash | Stone spires, a pine on a cliff and a fisherman's boat, all built in 3D, are rendered as an ink painting on rice paper while the camera drifts and mist moves. | 수묵화 렌더링 | 돌기둥 봉우리, 절벽의 소나무, 낚싯배를 3D로 만들어 쌀 종이 위의 수묵화로 그리고, 카메라가 옆으로 흐르는 동안 겹겹의 산이 엇갈리고 안개가 흐른다. | Sumi-e |
+
+## 24. Physics & characters · 물리·캐릭터
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [265](prompts/265-ragdoll.md) | Ragdoll | A crash-test dummy of capsules held by joint limits drops onto a staircase, tumbles down twelve steps, lies perfectly still, then a conveyor carries it off. | 래그돌 | 캡슐과 관절 제한으로 만든 충돌 시험 더미가 계단 위로 떨어져 열두 칸을 굴러 내려오고, 완전히 멈춰 누웠다가 컨베이어에 실려 나간다. | Ragdoll Physics |
+| [266](prompts/266-vehicle-physics.md) | Vehicle Physics | A dune buggy on spring-damper struts drives over whoops, side bumps and a jump; coils squash, the body pitches and rolls, and a dial logs every spring. | 차량 물리 | 스프링·댐퍼 서스펜션의 버기가 연속 둔덕, 한쪽 둔덕, 점프대를 지나며 코일이 눌리고 차체가 앞뒤·좌우로 기울며, 다이얼이 바퀴마다 압축을 기록한다. | Suspension Simulation |
+| [267](prompts/267-buoyancy.md) | Buoyancy | Cork, pine, ice and stone drop from reels into a glass tank, splash and bob, then float 24 %, 60 % and 92 % under as the stone sinks, and reel back up. | 부력 | 코르크·소나무·얼음·돌이 줄에서 풀려 유리 수조에 떨어져 출렁이다가 각각 24 %·60 %·92 % 잠긴 채 멈추고 돌은 가라앉으며, 다시 감겨 올라간다. | Archimedes' Principle |
+| [268](prompts/268-motion-matching.md) | Motion Matching | A runner circles a figure-eight while motion matching compares where the path is heading (orange) with seven clips' trajectories and lights the closest card. | 모션 매칭 | 달리는 사람이 8자 길을 돌고, 모션 매칭이 길이 향하는 미래 궤적(주황)을 클립 일곱 개의 궤적과 비교해 가장 가까운 클립 카드를 밝힌다. |  |
+| [269](prompts/269-lip-sync.md) | Lip Sync | A cartoon face says "Hello there, watch my mouth. Very fun!" as phonemes on a sliding track blend ten viseme mouth shapes, each lit by its weight. | 립싱크 | 만화 얼굴이 "Hello there, watch my mouth. Very fun!"을 말하고, 흘러가는 음소 트랙에 맞춰 열 가지 입 모양(viseme)이 섞이며 가중치만큼 켜진다. | Viseme Animation |
+| [270](prompts/270-retargeting.md) | Retargeting | One step-touch dance from a glowing source skeleton plays on a tall, a round and a robot body; steps scale with each one's legs and IK pins the feet down. | 리타기팅 | 빛나는 원본 골격의 스텝 터치 춤 하나가 키 큰 몸, 둥근 몸, 로봇에 옮겨지고, 다리 길이만큼 보폭이 바뀌며 발은 IK로 바닥에 고정된다. | Motion Retargeting |
+
+## 25. Spatial illusions · 공간 착시
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [271](prompts/271-anamorphic-billboard.md) | Anamorphic Billboard | A pink ring and three spheres float out of a gridded room on a corner LED screen; off the sweet spot the pixels become a flat picture folded round the corner. | 아나모픽 빌보드 | 건물 모서리 LED 화면 속 격자 방에서 분홍 링과 구슬 셋이 거리로 떠오르고, 스위트 스폿을 벗어나면 같은 픽셀이 모서리에 접힌 평면 그림이 된다. | 3D Billboard, Forced-Perspective Screen |
+| [272](prompts/272-projection-mapping.md) | Projection Mapping | A white neoclassical facade is painted with projected light: outlines trace every edge, windows fill gold, a colour wave floods it, then fake shadows swing. | 프로젝션 매핑 | 밤의 하얀 신고전주의 건물 정면에 빛을 투사해, 윤곽선이 모서리를 타고 오르고 창이 금빛으로 차오르며 색 물결이 덮인 뒤 가짜 그림자가 빙 돈다. | Video Mapping, Spatial AR |
+| [273](prompts/273-lenticular.md) | Lenticular | A ridged lenticular postcard tilts from GOOD MORNING to EVENING to NIGHT; a loupe shows its lens ridges and a cross-section shows the eye picking a strip. | 렌티큘러 | 볼록 렌즈 줄이 덮인 렌티큘러 엽서가 기울며 GOOD MORNING·EVENING·NIGHT로 바뀌고, 돋보기는 렌즈 줄을, 단면도는 눈이 고르는 띠를 보여 준다. | Lenticular Printing, Flip Image |
+| [274](prompts/274-zoetrope.md) | Zoetrope | Thirty bird sculptures on a spinning platter smear into a ring under steady light, then flap their wings as one flock when a 30 Hz strobe matches the spin. | 조이트로프 | 돌아가는 원판 위 새 조각 30개가 보통 조명에서는 고리로 번지다가, 회전에 맞춘 30 Hz 스트로브가 켜지면 한 무리가 되어 날갯짓한다. | 3D Zoetrope, Strobe Animation |
+| [275](prompts/275-virtual-production.md) | Virtual Production | An astronaut stands in an alien desert that is really a curved LED wall; the camera's picture shrinks away to reveal the stage, the rig and its frustum. | 버추얼 프로덕션 | 외계 사막에 선 우주인 뒤 풍경은 사실 휘어진 LED 벽이다. 카메라 화면이 구석으로 줄어들며 무대와 촬영 카메라, 벽 위의 촬영 범위가 드러난다. | ICVFX, LED Volume |
+
+## 26. AI-era techniques · AI 시대 기법
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [276](prompts/276-style-transfer.md) | Style Transfer | A harbour photo is repainted as swirling blue-gold strokes, pointillist dots and leaded stained glass, a soft diagonal wipe sweeping from style to style. | 스타일 트랜스퍼 | 항구 사진을 푸른·금빛 소용돌이 붓질, 점묘, 납선 스테인드글라스로 다시 그리고, 부드러운 대각선 와이프가 한 스타일에서 다음 스타일로 넘긴다. | Neural Style Transfer, Image Stylization |
+| [277](prompts/277-relighting.md) | Relighting | A photo of a sleeping marble head is split into albedo and normal maps and re-lit by a coloured light circling it, a divider comparing it with the original. | 리라이팅 | 잠든 대리석 두상 사진을 알베도·노멀 맵으로 나누고 둘레를 도는 색 조명으로 다시 비추며, 움직이는 경계선이 원본 사진과 나란히 비교해 보여 준다. | Image Relighting, Intrinsic Decomposition |
+| [278](prompts/278-ar-face-filter.md) | AR Face Filter | A turning, smiling selfie face carries a tracked 300-point landmark mesh; heart glasses, bunny ears, blush and sparkles pop on and stay stuck to it as it moves. | AR 얼굴 필터 | 고개를 돌리고 웃는 셀카 얼굴에 300점 랜드마크 메시가 따라붙고, 하트 안경·토끼 귀·볼터치·반짝이가 튀어나와 얼굴에 붙은 채 함께 움직인다. | Face Tracking, Face Mesh |
