@@ -1,8 +1,8 @@
-# Motion Effects 278 · 모션 효과 278가지
+# Motion Effects 325 · 모션 효과 325가지
 
-The 278 effects in 26 categories: 137 motion effects (1–9), 102 3D graphics techniques (10–20) and 39 more techniques (21–26). ★ = one of the 20 effects from the original reel (its number in brackets). An effect known under several names is one entry; the other names are in the last column. Each effect has a video in `videos/`, a prompt in `prompts/` and its code in `effects/`.
+The 325 effects in 34 categories: 137 motion effects (1–9), 102 3D graphics techniques (10–20), 39 more techniques (21–26) and 47 more (27–34). ★ = one of the 20 effects from the original reel (its number in brackets). An effect known under several names is one entry; the other names are in the last column. Each effect has a video in `videos/`, a prompt in `prompts/` and its code in `effects/`.
 
-26개 분야의 효과 278가지: 모션 효과 137가지(1~9), 3D 그래픽 기법 102가지(10~20), 그 밖의 기법 39가지(21~26). ★ = 원래 릴스의 20개 중 하나(괄호 안은 릴스 번호). 이름만 다르고 같은 효과는 한 항목으로 합쳤고, 다른 이름은 마지막 칸에 적었다. 효과마다 영상은 `videos/`, 프롬프트는 `prompts/`, 코드는 `effects/`에 있다.
+34개 분야의 효과 325가지: 모션 효과 137가지(1~9), 3D 그래픽 기법 102가지(10~20), 그 밖의 기법 39가지(21~26)와 47가지(27~34). ★ = 원래 릴스의 20개 중 하나(괄호 안은 릴스 번호). 이름만 다르고 같은 효과는 한 항목으로 합쳤고, 다른 이름은 마지막 칸에 적었다. 효과마다 영상은 `videos/`, 프롬프트는 `prompts/`, 코드는 `effects/`에 있다.
 
 ## 1. Design styles · 디자인 스타일
 
@@ -411,3 +411,90 @@ The 278 effects in 26 categories: 137 motion effects (1–9), 102 3D graphics te
 | [276](prompts/276-style-transfer.md) | Style Transfer | A harbour photo is repainted as swirling blue-gold strokes, pointillist dots and leaded stained glass, a soft diagonal wipe sweeping from style to style. | 스타일 트랜스퍼 | 항구 사진을 푸른·금빛 소용돌이 붓질, 점묘, 납선 스테인드글라스로 다시 그리고, 부드러운 대각선 와이프가 한 스타일에서 다음 스타일로 넘긴다. | Neural Style Transfer, Image Stylization |
 | [277](prompts/277-relighting.md) | Relighting | A photo of a sleeping marble head is split into albedo and normal maps and re-lit by a coloured light circling it, a divider comparing it with the original. | 리라이팅 | 잠든 대리석 두상 사진을 알베도·노멀 맵으로 나누고 둘레를 도는 색 조명으로 다시 비추며, 움직이는 경계선이 원본 사진과 나란히 비교해 보여 준다. | Image Relighting, Intrinsic Decomposition |
 | [278](prompts/278-ar-face-filter.md) | AR Face Filter | A turning, smiling selfie face carries a tracked 300-point landmark mesh; heart glasses, bunny ears, blush and sparkles pop on and stay stuck to it as it moves. | AR 얼굴 필터 | 고개를 돌리고 웃는 셀카 얼굴에 300점 랜드마크 메시가 따라붙고, 하트 안경·토끼 귀·볼터치·반짝이가 튀어나와 얼굴에 붙은 채 함께 움직인다. | Face Tracking, Face Mesh |
+
+## 27. Retro 3D · 레트로 3D
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [279](prompts/279-mode-7.md) | Mode 7 | An SNES-style kart track is one flat map, rotated and scaled anew on every scanline below a fixed horizon; a yellow scanline and a map inset show how. | 모드 7 | SNES풍 카트 트랙은 평평한 지도 한 장이다. 고정된 지평선 아래 주사선마다 지도를 새로 회전·확대하고, 노란 주사선과 지도 인셋이 그 원리를 보여 준다. |  |
+| [280](prompts/280-raycasting.md) | Raycasting | A Wolfenstein-style textured corridor drawn one ray per screen column; a cursor lights each column as it is cast, and the grid map below shows its DDA steps. | 레이캐스팅 | 울펜슈타인풍 텍스처 복도를 화면 열마다 광선 하나로 그린다. 커서가 지나는 열이 빛나고, 아래 격자 지도에 그 광선의 DDA 걸음이 표시된다. | Wolfenstein-style Raycasting, DDA Raycasting |
+| [281](prompts/281-voxel-space.md) | Voxel Space | A Comanche-style flight down a sunset river valley drawn from a height map and a colour map, front to back with a y-buffer, shown column by column below. | 복셀 스페이스 | 높이 맵과 색 맵 두 장으로 그린 코만치풍 노을 강 계곡 비행. 앞에서 뒤로 그리며 y버퍼로 가려진 땅을 건너뛰는 과정을 아래 도식이 한 열씩 보여 준다. | Comanche Terrain, Heightmap Raycasting |
+| [282](prompts/282-pseudo-3d-road.md) | Pseudo-3D Road | An 80s arcade road built from flat segments: bends and hills come from per-segment offsets, palms and signs scale up, and a side view shows the projection. | 유사 3D 도로 | 평평한 세그먼트로 만든 80년대 아케이드 도로. 굽이와 언덕은 세그먼트마다 더하는 오프셋이고 야자수와 표지판이 커지며, 옆 단면도가 투영을 보여 준다. | Arcade Road, Raster Road |
+| [283](prompts/283-sprite-stacking.md) | Sprite Stacking | A pixel cottage made of 19 flat 16 × 16 slices fans apart into loose sheets, a glow climbs through them, and they close into a solid-looking house that turns. | 스프라이트 스태킹 | 16 × 16 평면 조각 19장으로 만든 픽셀 오두막이 낱장으로 펼쳐지고, 빛이 조각을 타고 오른 뒤 다시 포개져 단단해 보이는 집이 되어 돈다. | Slice Stacking |
+| [284](prompts/284-impostors.md) | Impostors | In a forest walk only near trees are real meshes; far ones are camera-facing quads that blend views from a baked octahedral atlas, revealed by a wipe. | 임포스터 | 숲길에서 가까운 나무만 진짜 메시이고 먼 나무는 구워 둔 팔면체 아틀라스의 시점을 섞어 보여 주는 카메라 정면 사각형이며, 와이프가 그 정체를 드러낸다. | Octahedral Impostors |
+
+## 28. Rendering internals · 렌더링 내부
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [285](prompts/285-level-of-detail.md) | Level of Detail (LOD) | A fluted sculpture steps from 5,120 to 80 triangles as the camera dollies back, its added vertices gliding onto their parent edges so the switch never pops. | 상세도 단계 | 카메라가 물러나면 홈이 팬 조각상이 삼각형 5,120개에서 80개로 단계를 내리고, 추가된 꼭짓점이 부모 모서리로 미끄러져 전환할 때 튀지 않는다. | Mesh LOD, Geomorphing |
+| [286](prompts/286-frustum-culling.md) | Frustum & Occlusion Culling | A top-down city as the camera turns: objects outside its frustum go grey, those behind four towers are hatched, and only the rest cost a draw call. | 절두체·가림 컬링 | 위에서 본 도시에서 카메라가 돈다. 절두체 밖 물체는 회색, 탑 네 개 뒤에 가린 물체는 빗금이 되고, 남은 것만 드로 콜을 쓴다. 아래 창은 카메라의 시야다. | View-Frustum Culling, Visibility Culling |
+| [287](prompts/287-bvh.md) | Bounding Volume Hierarchy | A teapot's 1,560 triangles are wrapped in nested boxes built level by level; three rays walk the tree, lighting only the boxes they test, then it folds away. | 경계 볼륨 계층 | 주전자의 삼각형 1,560개를 감싼 상자들이 한 단계씩 쪼개져 트리가 되고, 광선 세 줄이 트리를 따라가며 실제로 검사한 상자만 빛난 뒤 다시 접힌다. | BVH |
+| [288](prompts/288-mipmapping.md) | Mipmapping | A still tiled floor runs to the horizon as a divider sweeps: without mipmaps it breaks into moiré, trilinear mipmaps stay clean, and tints show each level. | 밉매핑 | 멈춰 있는 타일 바닥이 지평선까지 뻗고 경계선이 지나간다. 최근접 샘플링 쪽은 무아레로 깨지고 트라이리니어 밉맵 쪽은 깨끗하며, 레벨 색이 밉 사슬을 보여 준다. | Trilinear Filtering, Anisotropic Filtering |
+| [289](prompts/289-anti-aliasing.md) | Anti-Aliasing | A loupe hops over a still sunset bridge of thin cables while four 10× pixel panels compare No AA, FXAA, MSAA 4× and SSAA 16×; the scene itself never moves. | 안티앨리어싱 | 가는 케이블이 걸린 노을 다리 위를 돋보기가 옮겨 다니고, 10배 확대 픽셀 패널 넷이 AA 없음·FXAA·MSAA 4×·SSAA 16×를 비교한다. 장면은 전혀 움직이지 않는다. | MSAA, SSAA, FXAA |
+
+## 29. Shading tricks · 셰이딩 기법
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [290](prompts/290-hair-strands.md) | Hair Strands | A chestnut ponytail of 14,000 strands sways from a gold cuff as a white R glint and a golden, shifted TRT band slide along it, beside a fibre diagram. | 헤어 스트랜드 | 금색 커프에서 늘어진 밤색 포니테일(가닥 14,000개)이 흔들리고, 흰 R 반사와 금빛으로 밀린 TRT 띠가 머리결을 따라 흐르며, 옆에 세 빛 경로 도해가 있다. | Marschner Hair Shading |
+| [291](prompts/291-eye-shader.md) | Eye Shader | A glossy eyeball glances around while the light dims and its pupil opens, then turns aside and splits into cornea, iris and sclera before closing up again. | 눈 셰이더 | 윤기 나는 눈알이 이리저리 보는 사이 빛이 어두워지며 동공이 커진다. 이어 옆으로 돌며 각막·홍채·공막으로 갈라졌다가 다시 합쳐진다. |  |
+| [292](prompts/292-interior-mapping.md) | Interior Mapping | Every window of a dusk tower's flat facade shows a lit, furnished room that shifts in depth as the camera drifts; a sweep and a plan view prove it is one quad. | 인테리어 매핑 | 해 질 녘 빌딩의 평평한 외벽 창마다 가구와 조명이 있는 방이 보이고 카메라가 움직이면 깊이 있게 어긋난다. 훑는 띠와 평면도가 외벽이 사각형 하나임을 보여 준다. | Fake Interiors |
+| [293](prompts/293-retroreflection.md) | Retroreflection | On a night road a lamp beside the eye makes a retro sign, cone sleeves, cat's eyes and vest tape blaze while plain paint stays dim, until the lamp swings away. | 재귀반사 | 밤길에서 눈 옆 램프에 재귀반사 표지판·고깔 띠·도로 표지병·조끼 테이프가 빛나고 같은 색 일반 도장은 어둡다. 램프가 눈에서 멀어지면 빛이 꺼진다. |  |
+| [294](prompts/294-edge-wear.md) | Edge Wear | A red tool chest turns as its curvature map glows over it, then paint chips off along its convex edges, showing primer and bare steel, and grows back new. | 엣지 마모 | 빨간 공구 캐비닛이 돌며 곡률 맵이 겹쳐 빛나고, 이어 볼록한 모서리를 따라 도장이 벗겨져 프라이머와 맨 강철이 드러났다가 다시 새것이 된다. | Curvature-Based Wear |
+| [295](prompts/295-ies-light-profiles.md) | IES Light Profiles | Three downlights load different IES files and paint a crisp cut-off arch, a batwing band and a spot with a spill ring on a gallery wall. | IES 배광 | 천장 다운라이트 세 개가 서로 다른 IES 파일을 받아 갤러리 벽에 또렷한 컷오프 아치, 배트윙 띠, 스필 링을 두른 스폿을 그린다. | Photometric Web |
+
+## 30. Modeling craft · 모델링 기법
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [296](prompts/296-digital-sculpting.md) | Digital Sculpting | A grey clay sphere becomes a face stroke by stroke as Clay Buildup, Inflate, Crease and Smooth brushes pass, a red brush circle riding the surface. | 디지털 스컬핑 | 회색 점토 구가 클레이 빌드업, 인플레이트, 크리스, 스무드 브러시가 지날 때마다 얼굴이 되어 가고, 빨간 브러시 원이 표면을 타고 움직인다. |  |
+| [297](prompts/297-retopology.md) | Retopology | Clean quad edge loops are drawn over a dense 100,820-triangle sculpt: rings round the eyes, nose and mouth merge outward, with poles where they meet. | 리토폴로지 | 삼각형 100,820개의 촘촘한 스컬프트 위에 깔끔한 사각형 엣지 루프가 그려진다. 눈·코·입을 감싼 고리가 바깥으로 합쳐지고, 만나는 자리에 폴이 놓인다. | Retopo |
+| [298](prompts/298-kitbashing.md) | Kitbashing | A plain grey starship blockout is detailed from a tray of eight kit parts: plates, pipes, vents and greebles snap onto the hull in waves, then thrusters fire. | 킷배싱 | 밋밋한 회색 우주선 블록아웃에 트레이의 키트 부품 여덟 종이 붙는다. 판·파이프·통풍구·그리블이 물결처럼 선체에 딸깍 붙고, 추진기가 불을 뿜는다. | Greebling |
+| [299](prompts/299-convex-hull.md) | Convex Hull | Quickhull wraps 62 floating points face by face: the farthest point lights up, the faces it sees turn red, a yellow horizon forms and new faces bulge out. | 볼록 껍질 | 퀵헐이 떠 있는 점 62개를 한 면씩 감싼다. 가장 먼 점이 켜지고, 그 점이 보는 면이 빨개지고, 노란 지평선이 생기고, 새 면이 부풀어 오른다. | Quickhull |
+| [300](prompts/300-gyroid.md) | Gyroid | A 3D-printed gyroid lattice in a cube swings round as its walls thicken from a thin sheet between two labyrinths into the solid network, then thin back. | 자이로이드 | 정육면체에 담긴 3D 프린팅 자이로이드 격자가 돌아가며, 두 미로를 가르는 얇은 판이 두꺼워져 단단한 그물 구조가 되었다가 다시 얇아진다. | Triply Periodic Minimal Surface |
+| [301](prompts/301-topology-optimization.md) | Topology Optimization | SIMP topology optimization eats a solid bracket plate down to a bone-like truss, iteration by iteration, while compliance and volume are plotted below. | 위상 최적화 | SIMP 위상 최적화가 꽉 찬 브래킷 판을 반복할 때마다 깎아 뼈대 같은 트러스로 만들고, 아래에 컴플라이언스와 부피 그래프가 그려진다. | SIMP, Generative Design |
+| [302](prompts/302-photogrammetry.md) | Photogrammetry | Thirty cameras surround a stone head; matched features, a sparse cloud, a dense cloud, a wireframe mesh and a projected texture rebuild it stage by stage. | 포토그래메트리 | 카메라 30대가 돌 두상을 둘러싸고, 특징점 매칭, 희소 점군, 조밀 점군, 와이어프레임 메시, 투사 텍스처 순서로 두상을 한 단계씩 다시 만든다. | Structure from Motion |
+| [303](prompts/303-bas-relief.md) | Bas-Relief | A bronze tree-of-life plaque is squeezed from a deep, rounded sculpture to 8 % of its depth while a low raking light circles it and reveals the form. | 부조 | 깊고 둥근 생명의 나무 청동 조각이 깊이의 8 %로 눌려 얕은 부조판이 되고, 낮게 원을 그리는 측광이 그래도 살아 있는 형태를 드러낸다. | Low Relief |
+
+## 31. Physical phenomena · 물리 현상
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [304](prompts/304-ferrofluid.md) | Ferrofluid | A magnet lifts under a dish of glossy black ferrofluid; past the critical field sharp spikes rise in a hexagonal pattern, then sink back to a mirror. | 자성 유체 | 광택 있는 검은 자성 유체 접시 아래로 자석이 올라오고, 임계 자기장을 넘자 날카로운 가시가 육각형으로 솟았다가 다시 거울 같은 수면으로 가라앉는다. | Rosensweig Instability |
+| [305](prompts/305-double-pendulum.md) | Double Pendulum | Nine double pendulums let go 0.001 rad apart swing as one, then fan out into chaos with glowing trails while a log-scale plot tracks the spread. | 이중 진자 | 0.001 rad 차이로 놓인 이중 진자 아홉 개가 한 몸처럼 흔들리다 빛나는 궤적을 그리며 혼돈 속으로 흩어지고, 로그 그래프가 벌어짐을 그린다. | Chaotic Pendulum |
+| [306](prompts/306-hydraulic-erosion.md) | Hydraulic Erosion | Simulated rain droplets carve a fresh fBm mountain into gullies, sharp ridges and sediment fans as a time-lapse, then a scan line restores it. | 수력 침식 | 시뮬레이션한 빗방울이 새 fBm 산을 깎아 골짜기·날카로운 능선·퇴적 부채꼴을 만드는 타임랩스가 흐르고, 스캔 선이 지나가며 처음 지형으로 되돌린다. | Droplet Erosion |
+| [307](prompts/307-lightning.md) | Lightning | A stepped leader creeps down from a storm cloud, branching as field lines bend round its tips, then its path brightens smoothly into a bolt and fades. | 번개 | 폭풍 구름에서 계단형 선도가 갈라지며 내려오고 등전위선이 그 끝을 감싸 휘다가, 땅에 닿으면 그 길이 부드럽게 밝아져 번개가 되고 서서히 사라진다. | Dielectric Breakdown Model, Laplacian Growth |
+| [308](prompts/308-chladni-patterns.md) | Chladni Patterns | Sand on a steel plate leaves the shaking parts and settles on the nodal lines as the drive steps through four resonances, read out in hertz. | 클라드니 도형 | 철판을 울리는 주파수가 네 공명을 차례로 지날 때마다 모래가 흔들리는 곳을 떠나 마디선에 모여 멈추고, 진동수는 헤르츠로 표시된다. | Cymatics, Chladni Figures |
+| [309](prompts/309-tensegrity.md) | Tensegrity | A three-stage tensegrity tower of wooden struts held only by cables is twisted down by a push, springs back and sways, its cables tinted by tension. | 텐세그리티 | 케이블에만 매달린 나무 버팀대들이 떠 있는 3단 텐세그리티 탑이 비트는 힘에 감겨 내려갔다가 튕겨 돌아와 흔들리고, 케이블은 장력에 따라 물든다. | Tensile Integrity |
+
+## 32. Capture & camera rigs · 캡처·촬영 장비
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [310](prompts/310-motion-capture.md) | Motion Capture | Twelve infrared cameras triangulate the markers on a performer's suit; the suit fades to a point cloud that solves into a skeleton, and a character takes over. | 모션 캡처 | 적외선 카메라 열두 대가 연기자 슈트의 마커를 삼각측량하고, 슈트가 사라져 점 구름이 되었다가 뼈대로 풀리고, 그 위에 캐릭터가 입혀져 똑같이 움직인다. | Mocap, Optical Motion Capture |
+| [311](prompts/311-split-diopter.md) | Split Diopter | A half-moon diopter slides over the lens: the blurred detective's face in front snaps sharp while the woman in the far doorway stays sharp, with a soft seam. | 스플릿 디옵터 | 반달 모양 디옵터가 렌즈 반쪽을 덮으면, 흐렸던 앞쪽 탐정의 얼굴이 또렷해지고 먼 문간의 여자도 그대로 또렷하며, 둘 사이에 부드러운 경계가 생긴다. | Split-Field Diopter |
+| [312](prompts/312-snorricam.md) | Snorricam | A camera rigged to a walking man's chest keeps his face locked in the centre while the moonlit street behind him rolls, sways and bobs; an inset shows the rig. | 스노리캠 | 걷는 남자의 가슴에 단 카메라가 그의 얼굴을 화면 한가운데 고정하고, 뒤의 달빛 거리만 기울고 흔들리고 출렁인다. 작은 화면은 그 장비를 밖에서 보여 준다. | Body-Mount Camera, Chest Rig |
+
+## 33. Classic optical illusions · 고전 착시
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [313](prompts/313-ames-room.md) | Ames Room | Through a peephole, identical twins look tiny and giant in a normal checkered room; one walks over and shrinks, then the trapezoid room is revealed. | 에임스 방 | 구멍으로 보면 평범한 체크무늬 방에서 쌍둥이가 하나는 작고 하나는 거인이다. 한 명이 걸어가며 줄어들고, 시야가 닫히면 사다리꼴 방이 드러난다. | Distorted Room |
+| [314](prompts/314-peppers-ghost.md) | Pepper's Ghost | A see-through lady in white fades in beside a chair on a moonlit stage; a side cut-away shows the 45° glass and the actor lying lit in the pit below. | 페퍼의 유령 | 달빛 무대의 의자 옆에 비쳐 보이는 흰 옷의 여인이 서서히 나타나고, 옆 단면도가 45° 유리와 무대 아래 구덩이에 누워 조명을 받는 배우를 보여 준다. |  |
+| [315](prompts/315-impossible-object.md) | Impossible Object | A coral, cream and teal Penrose triangle hangs closed and impossible; the camera swings off the one true view and its two ends drift metres apart. | 불가능한 도형 | 산호·크림·청록 펜로즈 삼각형이 불가능하게 닫혀 떠 있다가, 카메라가 단 하나의 시점에서 벗어나자 두 끝이 몇 미터나 떨어져 있음이 드러난다. | Penrose Triangle, Tribar |
+| [316](prompts/316-shadow-art.md) | Shadow Art | One carved block floats in a room corner and casts a G, an E and a B on three walls; it lifts and turns, the letters melt into blobs, then lock back. | 그림자 아트 | 방 구석에 뜬 깎은 블록 하나가 세 벽에 G, E, B 그림자를 드리운다. 블록이 떠올라 돌면 글자가 덩어리로 녹았다가 다시 제자리에 맞춰진다. | Shadow Sculpture |
+| [317](prompts/317-hollow-face.md) | Hollow-Face Illusion | A painted plaster mask turns steadily on a rod; when its hollow inside faces us it still reads as a face bulging out and seems to turn the wrong way. | 할로 페이스 착시 | 색칠한 석고 가면이 막대 위에서 일정하게 돈다. 오목한 안쪽이 우리를 향해도 여전히 볼록한 얼굴로 보이고, 반대 방향으로 도는 것처럼 보인다. | Hollow-Mask Illusion |
+| [318](prompts/318-ambiguous-cylinder.md) | Ambiguous Cylinder | A tube on a turntable looks round from the front but square in the mirror behind it; a half turn swaps them, and a side view shows its wavy rim. | 모호한 원기둥 착시 | 회전판 위의 관이 정면에서는 둥글지만 뒤의 거울 속에서는 네모로 보인다. 반 바퀴 돌면 둘이 바뀌고, 옆에서 보면 테두리가 물결친다. | Sugihara's Cylinder |
+
+## 34. Art & craft · 예술·공예
+
+| # | Effect | Description | 효과 | 설명 | Also known as · 다른 이름 |
+|---|---|---|---|---|---|
+| [319](prompts/319-cubism.md) | Cubism | A café still life (guitar, bottle, goblet, newspaper) seen by four cameras at once is cut into drifting ochre and grey facets; the four raw views sit below. | 입체파 | 기타·병·잔·신문이 놓인 카페 정물을 네 대의 카메라가 한꺼번에 보고, 그 시점들이 천천히 움직이는 황토·회색 면으로 쪼개져 한 그림이 된다. 아래에 네 원본 시점이 있다. | Analytic Cubism |
+| [320](prompts/320-surrealism.md) | Surrealism | A seashell as tall as a mountain, floating stones, a lone door open onto night, stairs to nowhere and one soft watch dripping gold, on a warm dream plain. | 초현실주의 | 산만 한 소라 껍데기, 떠 있는 돌, 홀로 서서 밤하늘로 열린 문, 어디로도 가지 않는 계단, 금빛 방울을 떨구며 녹아내리는 시계 하나가 따뜻한 꿈의 평원에 있다. |  |
+| [321](prompts/321-chiaroscuro.md) | Chiaroscuro | One candle glides across a still life of a pewter jug, a bottle, fruit and books; each form steps out of deep black as the steady flame passes, then sinks back. | 키아로스쿠로 | 촛불 하나가 백랍 주전자·병·과일·책이 놓인 정물 앞을 미끄러져 지나가면, 흔들림 없는 불꽃이 다가가는 형태마다 깊은 어둠에서 떠올랐다가 다시 가라앉는다. | Tenebrism |
+| [322](prompts/322-kintsugi.md) | Kintsugi | A shino tea bowl seen from above cracks from one point; its seven pieces part and close, gold flows along each seam, a light glints, the next bowl slides in. | 킨츠기 | 위에서 본 시노 찻사발이 한 점에서 금 가고, 일곱 조각이 벌어졌다 다시 붙은 뒤 모든 이음매를 따라 금이 흘러 빛나고, 다음 사발이 미끄러져 들어온다. | Kintsukuroi, Golden Repair |
+| [323](prompts/323-pop-up-book.md) | Pop-up Book | A red pop-up book opens to a right angle: towers, trees, a gate and a keep with a dragon rise from the fold on parallel folds, then fold flat as the book shuts. | 팝업북 | 빨간 팝업북이 직각으로 펼쳐지면 평행 접기로 탑·나무·성문과 용이 앉은 성탑이 접힌 선에서 일어서고, 책이 닫히며 다시 납작하게 접힌다. | Movable Book |
+| [324](prompts/324-lithophane.md) | Lithophane | A blank white porcelain plate is lit from behind and a lighthouse glows out of its thickness; a cross-section shows thin parts bright, thick parts dark. | 리토판 | 앞에서 비추면 빈 듯한 흰 자기판이 뒤에서 빛을 받자 두께 속에서 등대 풍경이 빛나 떠오르고, 단면도는 얇은 곳은 밝고 두꺼운 곳은 어둡다는 것을 보여 준다. |  |
+| [325](prompts/325-kinetic-sculpture.md) | Kinetic Sculpture | A beach walker on Jansen's linkage strides along wet sand on eight legs driven by two orange cranks, above a blueprint of one leg with its holy numbers. | 키네틱 조각 | 얀센 링크로 움직이는 해변 보행 조각이 주황 크랭크 둘로 다리 여덟 개를 굴려 젖은 모래 위를 걷고, 아래 청사진은 다리 하나와 그 '성스러운 수'를 보여 준다. | Strandbeest, Jansen's Linkage |

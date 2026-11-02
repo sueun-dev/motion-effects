@@ -467,3 +467,90 @@ W = 1080, H = 1920, t는 초 단위(0~5). 제목 라벨은 렌더러가 넣으�
 | 276 | [Style Transfer · 스타일 트랜스퍼](276-style-transfer.md) |
 | 277 | [Relighting · 리라이팅](277-relighting.md) |
 | 278 | [AR Face Filter · AR 얼굴 필터](278-ar-face-filter.md) |
+
+### 27. Retro 3D · 레트로 3D
+
+| # | Effect · 효과 |
+|---|---|
+| 279 | [Mode 7 · 모드 7](279-mode-7.md) |
+| 280 | [Raycasting · 레이캐스팅](280-raycasting.md) |
+| 281 | [Voxel Space · 복셀 스페이스](281-voxel-space.md) |
+| 282 | [Pseudo-3D Road · 유사 3D 도로](282-pseudo-3d-road.md) |
+| 283 | [Sprite Stacking · 스프라이트 스태킹](283-sprite-stacking.md) |
+| 284 | [Impostors · 임포스터](284-impostors.md) |
+
+### 28. Rendering internals · 렌더링 내부
+
+| # | Effect · 효과 |
+|---|---|
+| 285 | [Level of Detail (LOD) · 상세도 단계](285-level-of-detail.md) |
+| 286 | [Frustum & Occlusion Culling · 절두체·가림 컬링](286-frustum-culling.md) |
+| 287 | [Bounding Volume Hierarchy · 경계 볼륨 계층](287-bvh.md) |
+| 288 | [Mipmapping · 밉매핑](288-mipmapping.md) |
+| 289 | [Anti-Aliasing · 안티앨리어싱](289-anti-aliasing.md) |
+
+### 29. Shading tricks · 셰이딩 기법
+
+| # | Effect · 효과 |
+|---|---|
+| 290 | [Hair Strands · 헤어 스트랜드](290-hair-strands.md) |
+| 291 | [Eye Shader · 눈 셰이더](291-eye-shader.md) |
+| 292 | [Interior Mapping · 인테리어 매핑](292-interior-mapping.md) |
+| 293 | [Retroreflection · 재귀반사](293-retroreflection.md) |
+| 294 | [Edge Wear · 엣지 마모](294-edge-wear.md) |
+| 295 | [IES Light Profiles · IES 배광](295-ies-light-profiles.md) |
+
+### 30. Modeling craft · 모델링 기법
+
+| # | Effect · 효과 |
+|---|---|
+| 296 | [Digital Sculpting · 디지털 스컬핑](296-digital-sculpting.md) |
+| 297 | [Retopology · 리토폴로지](297-retopology.md) |
+| 298 | [Kitbashing · 킷배싱](298-kitbashing.md) |
+| 299 | [Convex Hull · 볼록 껍질](299-convex-hull.md) |
+| 300 | [Gyroid · 자이로이드](300-gyroid.md) |
+| 301 | [Topology Optimization · 위상 최적화](301-topology-optimization.md) |
+| 302 | [Photogrammetry · 포토그래메트리](302-photogrammetry.md) |
+| 303 | [Bas-Relief · 부조](303-bas-relief.md) |
+
+### 31. Physical phenomena · 물리 현상
+
+| # | Effect · 효과 |
+|---|---|
+| 304 | [Ferrofluid · 자성 유체](304-ferrofluid.md) |
+| 305 | [Double Pendulum · 이중 진자](305-double-pendulum.md) |
+| 306 | [Hydraulic Erosion · 수력 침식](306-hydraulic-erosion.md) |
+| 307 | [Lightning · 번개](307-lightning.md) |
+| 308 | [Chladni Patterns · 클라드니 도형](308-chladni-patterns.md) |
+| 309 | [Tensegrity · 텐세그리티](309-tensegrity.md) |
+
+### 32. Capture & camera rigs · 캡처·촬영 장비
+
+| # | Effect · 효과 |
+|---|---|
+| 310 | [Motion Capture · 모션 캡처](310-motion-capture.md) |
+| 311 | [Split Diopter · 스플릿 디옵터](311-split-diopter.md) |
+| 312 | [Snorricam · 스노리캠](312-snorricam.md) |
+
+### 33. Classic optical illusions · 고전 착시
+
+| # | Effect · 효과 |
+|---|---|
+| 313 | [Ames Room · 에임스 방](313-ames-room.md) |
+| 314 | [Pepper's Ghost · 페퍼의 유령](314-peppers-ghost.md) |
+| 315 | [Impossible Object · 불가능한 도형](315-impossible-object.md) |
+| 316 | [Shadow Art · 그림자 아트](316-shadow-art.md) |
+| 317 | [Hollow-Face Illusion · 할로 페이스 착시](317-hollow-face.md) |
+| 318 | [Ambiguous Cylinder · 모호한 원기둥 착시](318-ambiguous-cylinder.md) |
+
+### 34. Art & craft · 예술·공예
+
+| # | Effect · 효과 |
+|---|---|
+| 319 | [Cubism · 입체파](319-cubism.md) |
+| 320 | [Surrealism · 초현실주의](320-surrealism.md) |
+| 321 | [Chiaroscuro · 키아로스쿠로](321-chiaroscuro.md) |
+| 322 | [Kintsugi · 킨츠기](322-kintsugi.md) |
+| 323 | [Pop-up Book · 팝업북](323-pop-up-book.md) |
+| 324 | [Lithophane · 리토판](324-lithophane.md) |
+| 325 | [Kinetic Sculpture · 키네틱 조각](325-kinetic-sculpture.md) |
